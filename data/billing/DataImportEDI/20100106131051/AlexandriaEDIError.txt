@@ -1,0 +1,19 @@
+Error Report
+------------
+
+Process Date: 01/06/2010 13:09:38
+
+PROCESSING ERRORS
+
+Alexandria-VA Dominion   Invoice #: 212346000420100105   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of -212.39
+
+Alexandria-VA Dominion   Invoice #: 531625250020100105   Bldg Id:FINANCE DEPARTMENT
+    TOU Code DD not recognizedTOU Code PS not recognized
+
+Alexandria-VA Dominion   Invoice #: 559350000120100105   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of -0.02
+
+Alexandria-VA Dominion   Invoice #: 724110588620100105   
+    TOU Code LT not recognized
+    Previous Balance Amount of -114.95

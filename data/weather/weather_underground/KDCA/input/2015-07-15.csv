@@ -1,0 +1,30 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+12:52 AM,82 F,72 F,71 %,SW,3 mph,0 mph,29.53 in,0.0 in,Light Rain
+1:45 AM,79 F,68 F,69 %,NNW,12 mph,25 mph,29.55 in,0.0 in,Light Rain
+1:52 AM,77 F,68 F,74 %,NNW,17 mph,25 mph,29.55 in,0.0 in,Light Rain
+2:02 AM,75 F,66 F,73 %,NW,13 mph,0 mph,29.54 in,0.0 in,Light Rain
+2:52 AM,75 F,66 F,73 %,NW,9 mph,18 mph,29.54 in,0.0 in,Cloudy
+3:52 AM,75 F,66 F,73 %,CALM,0 mph,0 mph,29.56 in,0.0 in,Fair
+4:52 AM,74 F,66 F,76 %,WNW,6 mph,0 mph,29.56 in,0.0 in,Partly Cloudy
+5:52 AM,75 F,65 F,71 %,NW,7 mph,0 mph,29.58 in,0.0 in,Partly Cloudy
+6:52 AM,76 F,65 F,69 %,W,7 mph,0 mph,29.60 in,0.0 in,Partly Cloudy
+7:52 AM,78 F,66 F,66 %,W,7 mph,0 mph,29.61 in,0.0 in,Mostly Cloudy
+8:06 AM,79 F,64 F,61 %,WNW,12 mph,17 mph,29.62 in,0.0 in,Mostly Cloudy
+8:52 AM,79 F,66 F,64 %,NNW,14 mph,22 mph,29.63 in,0.0 in,Mostly Cloudy
+9:52 AM,81 F,68 F,65 %,VAR,7 mph,0 mph,29.65 in,0.0 in,Mostly Cloudy
+10:36 AM,81 F,66 F,61 %,NNW,16 mph,22 mph,29.67 in,0.0 in,Mostly Cloudy
+10:52 AM,81 F,68 F,65 %,NNW,12 mph,0 mph,29.67 in,0.0 in,Cloudy
+11:52 AM,79 F,67 F,66 %,N,16 mph,0 mph,29.70 in,0.0 in,Light Rain
+12:52 PM,81 F,69 F,67 %,N,8 mph,0 mph,29.69 in,0.0 in,Cloudy
+1:52 PM,85 F,68 F,57 %,N,12 mph,0 mph,29.70 in,0.0 in,Cloudy
+2:52 PM,87 F,69 F,55 %,N,9 mph,0 mph,29.70 in,0.0 in,Mostly Cloudy
+3:52 PM,86 F,67 F,53 %,N,13 mph,0 mph,29.71 in,0.0 in,Mostly Cloudy
+4:52 PM,87 F,68 F,53 %,N,12 mph,0 mph,29.73 in,0.0 in,Mostly Cloudy
+5:11 PM,88 F,68 F,52 %,N,13 mph,0 mph,29.73 in,0.0 in,Mostly Cloudy
+5:52 PM,84 F,70 F,63 %,NNE,9 mph,0 mph,29.73 in,0.0 in,Mostly Cloudy
+6:52 PM,85 F,68 F,57 %,N,9 mph,0 mph,29.75 in,0.0 in,Mostly Cloudy
+7:52 PM,83 F,67 F,58 %,N,9 mph,18 mph,29.77 in,0.0 in,Mostly Cloudy
+8:52 PM,81 F,66 F,60 %,NNE,13 mph,0 mph,29.80 in,0.0 in,Partly Cloudy
+9:52 PM,79 F,65 F,62 %,NNE,17 mph,0 mph,29.84 in,0.0 in,Fair
+10:52 PM,77 F,60 F,56 %,N,16 mph,0 mph,29.87 in,0.0 in,Fair
+11:52 PM,74 F,60 F,62 %,NNE,16 mph,0 mph,29.89 in,0.0 in,Fair

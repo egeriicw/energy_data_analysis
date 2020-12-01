@@ -1,0 +1,24 @@
+Error Report
+------------
+
+Process Date: 09/07/2016 04:29:37
+
+PROCESSING ERRORS
+
+Alexandria-VA Dominion   Invoice #: 616746567020160831   Bldg Id:DEPT OF RECREATION
+    Previous Balance Amount of -33.88
+
+Alexandria-VA Dominion   Invoice #: 959804405620160831   Bldg Id:GENERAL SERVICES
+    This bill has at least on meter read that has an Estimated End Date
+
+Alexandria-VA Dominion   Invoice #: 534878463720160901   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of -10.17
+    This bill has at least on meter read that has an Estimated End Date
+
+Alexandria-VA Dominion   Invoice #: 724110588620160902   
+    Previous Balance Amount of 22.46
+
+ACCOUNT #s WITH DUPLICATES IN BATCH
+
+Account #
+7241105886            

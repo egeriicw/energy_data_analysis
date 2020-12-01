@@ -1,0 +1,31 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+12:52 AM,75 F,74 F,96 %,CALM,0 mph,0 mph,29.92 in,0.0 in,Mostly Cloudy
+1:52 AM,75 F,74 F,96 %,CALM,0 mph,0 mph,29.92 in,0.0 in,Cloudy
+2:31 AM,74 F,73 F,97 %,N,5 mph,0 mph,29.92 in,0.0 in,Cloudy
+2:52 AM,73 F,72 F,96 %,N,6 mph,0 mph,29.92 in,0.0 in,Cloudy
+3:52 AM,73 F,73 F,100 %,NNW,6 mph,0 mph,29.92 in,0.0 in,Partly Cloudy
+4:52 AM,73 F,73 F,100 %,CALM,0 mph,0 mph,29.94 in,0.0 in,Mostly Cloudy
+5:33 AM,74 F,73 F,97 %,NE,3 mph,0 mph,29.95 in,0.0 in,Mostly Cloudy
+5:52 AM,73 F,73 F,100 %,CALM,0 mph,0 mph,29.96 in,0.0 in,Cloudy
+6:16 AM,73 F,73 F,100 %,ESE,3 mph,0 mph,29.97 in,0.0 in,Fog
+6:52 AM,73 F,73 F,100 %,CALM,0 mph,0 mph,29.97 in,0.0 in,Fog
+7:33 AM,74 F,73 F,97 %,NNE,3 mph,0 mph,29.98 in,0.0 in,Fog
+7:52 AM,75 F,74 F,96 %,CALM,0 mph,0 mph,29.98 in,0.0 in,Fog
+8:15 AM,76 F,74 F,94 %,NE,5 mph,0 mph,29.99 in,0.0 in,Fog
+8:46 AM,77 F,73 F,89 %,CALM,0 mph,0 mph,29.99 in,0.0 in,Mostly Cloudy
+8:52 AM,76 F,74 F,94 %,ENE,5 mph,0 mph,29.99 in,0.0 in,Mostly Cloudy
+9:52 AM,78 F,74 F,87 %,E,5 mph,0 mph,29.99 in,0.0 in,Mostly Cloudy
+10:52 AM,81 F,74 F,79 %,E,6 mph,0 mph,30.00 in,0.0 in,Cloudy
+11:52 AM,85 F,73 F,67 %,E,3 mph,0 mph,29.99 in,0.0 in,Cloudy
+12:52 PM,88 F,71 F,57 %,NNW,9 mph,0 mph,29.98 in,0.0 in,Mostly Cloudy
+1:52 PM,89 F,71 F,55 %,N,9 mph,0 mph,29.98 in,0.0 in,Partly Cloudy
+2:52 PM,91 F,67 F,45 %,VAR,7 mph,0 mph,29.97 in,0.0 in,Partly Cloudy
+3:52 PM,91 F,67 F,45 %,WNW,10 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
+4:52 PM,90 F,69 F,50 %,NNW,8 mph,0 mph,29.95 in,0.0 in,Partly Cloudy
+5:52 PM,88 F,66 F,48 %,NNW,8 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
+6:52 PM,87 F,68 F,53 %,NNW,8 mph,0 mph,29.95 in,0.0 in,Mostly Cloudy
+7:52 PM,86 F,69 F,57 %,NE,6 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
+8:52 PM,85 F,69 F,59 %,NE,6 mph,0 mph,29.98 in,0.0 in,Cloudy
+9:52 PM,82 F,75 F,79 %,ENE,5 mph,0 mph,30.00 in,0.0 in,Cloudy
+10:52 PM,83 F,75 F,77 %,CALM,0 mph,0 mph,30.01 in,0.0 in,Cloudy
+11:52 PM,81 F,76 F,85 %,ESE,3 mph,0 mph,30.01 in,0.0 in,Cloudy

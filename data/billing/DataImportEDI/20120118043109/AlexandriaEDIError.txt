@@ -1,0 +1,9 @@
+Error Report
+------------
+
+Process Date: 01/18/2012 04:20:36
+
+PROCESSING ERRORS
+
+Alexandria-VA Dominion   Invoice #: 103050697420120111   
+    Previous Balance Amount of -16.50

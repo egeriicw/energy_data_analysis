@@ -1,0 +1,9 @@
+Error Report
+------------
+
+Process Date: 07/22/2015 04:32:58
+
+PROCESSING ERRORS
+
+Alexandria-VA Dominion   Invoice #: 353538750420150716   Bldg Id:GENERAL SERVICES
+    This bill has at least on meter read that has an Estimated End Date

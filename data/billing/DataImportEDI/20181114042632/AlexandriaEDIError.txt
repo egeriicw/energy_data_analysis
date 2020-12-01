@@ -1,0 +1,18 @@
+Error Report
+------------
+
+Process Date: 11/14/2018 04:23:32
+
+PROCESSING ERRORS
+
+Alexandria-VA Dominion   Invoice #: 299061750420181107   Bldg Id:SOCCER FIELD
+    This bill has at least on meter read that has an Estimated End Date
+
+Alexandria-VA Dominion   Invoice #: 560649675920181107   Bldg Id:GENERAL SERVICES
+    This bill has at least on meter read that has an Estimated End Date
+
+Alexandria-VA Dominion   Invoice #: 491461619020181108   Bldg Id:GENERAL SERVICES
+    This bill has at least on meter read that has an Estimated End Date
+
+Alexandria-VA Dominion   Invoice #: 721421274320181108   
+    Previous Balance Amount of 6.59

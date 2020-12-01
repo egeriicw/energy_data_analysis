@@ -1,0 +1,15 @@
+Error Report
+------------
+
+Process Date: 09/17/2014 08:18:34
+
+PROCESSING ERRORS
+
+Alexandria-VA Dominion   Invoice #: 133834787320140910   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of -46.24
+
+Alexandria-VA Dominion   Invoice #: 986436997120140910   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of -69.67
+
+Alexandria-VA Dominion   Invoice #: 669157394020140915   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of -6203.60

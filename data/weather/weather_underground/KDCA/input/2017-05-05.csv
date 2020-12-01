@@ -1,0 +1,63 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+12:45 AM,58 F,55 F,90 %,E,12 mph,18 mph,29.87 in,0.0 in,Cloudy
+12:52 AM,58 F,55 F,90 %,ESE,9 mph,0 mph,29.86 in,0.0 in,Cloudy
+1:21 AM,58 F,56 F,93 %,E,9 mph,0 mph,29.85 in,0.0 in,Cloudy
+1:36 AM,59 F,56 F,90 %,E,6 mph,0 mph,29.84 in,0.0 in,Cloudy
+1:52 AM,59 F,56 F,90 %,E,10 mph,16 mph,29.82 in,0.0 in,Cloudy
+2:52 AM,60 F,56 F,86 %,ESE,14 mph,21 mph,29.78 in,0.0 in,Cloudy
+3:52 AM,61 F,57 F,87 %,E,8 mph,0 mph,29.74 in,0.0 in,Cloudy
+4:52 AM,61 F,58 F,90 %,E,12 mph,0 mph,29.70 in,0.1 in,Heavy Rain
+5:17 AM,61 F,59 F,93 %,E,10 mph,0 mph,29.67 in,0.1 in,Rain
+5:52 AM,62 F,60 F,93 %,E,14 mph,0 mph,29.63 in,0.3 in,Rain
+5:55 AM,62 F,60 F,93 %,E,14 mph,0 mph,29.62 in,0.0 in,Rain
+6:03 AM,62 F,60 F,93 %,E,14 mph,22 mph,29.62 in,0.0 in,Rain
+6:13 AM,62 F,61 F,96 %,E,18 mph,24 mph,29.61 in,0.1 in,Rain
+6:52 AM,63 F,62 F,97 %,E,9 mph,18 mph,29.59 in,0.3 in,Heavy Rain
+7:01 AM,64 F,62 F,93 %,ESE,15 mph,23 mph,29.58 in,0.0 in,Light Rain
+7:52 AM,65 F,64 F,97 %,ESE,18 mph,29 mph,29.55 in,0.1 in,Rain
+8:13 AM,66 F,64 F,93 %,ESE,17 mph,28 mph,29.52 in,0.0 in,T-Storm
+8:25 AM,65 F,64 F,97 %,ESE,20 mph,0 mph,29.52 in,0.1 in,Heavy T-Storm
+8:32 AM,65 F,64 F,97 %,ESE,15 mph,0 mph,29.51 in,0.2 in,Heavy T-Storm
+8:40 AM,66 F,64 F,93 %,ESE,14 mph,0 mph,29.51 in,0.2 in,T-Storm
+8:46 AM,64 F,64 F,100 %,ESE,16 mph,0 mph,29.50 in,0.3 in,Heavy Rain
+8:52 AM,66 F,65 F,96 %,SE,15 mph,29 mph,29.54 in,0.3 in,Rain
+8:57 AM,66 F,65 F,96 %,W,18 mph,29 mph,29.55 in,0.0 in,Heavy Rain
+8:59 AM,66 F,65 F,96 %,WSW,23 mph,28 mph,29.56 in,0.1 in,Heavy Rain / Windy
+9:04 AM,66 F,65 F,96 %,W,8 mph,26 mph,29.54 in,0.3 in,Heavy Rain
+9:11 AM,66 F,66 F,100 %,S,5 mph,0 mph,29.53 in,0.3 in,Rain
+9:15 AM,66 F,65 F,96 %,S,5 mph,0 mph,29.54 in,0.3 in,Rain
+9:52 AM,67 F,66 F,97 %,SE,9 mph,0 mph,29.50 in,0.4 in,Partly Cloudy
+10:07 AM,66 F,65 F,96 %,SSE,16 mph,0 mph,29.51 in,0.0 in,Cloudy
+10:52 AM,66 F,64 F,93 %,S,12 mph,0 mph,29.53 in,0.0 in,Cloudy
+11:52 AM,67 F,64 F,90 %,SSE,8 mph,0 mph,29.51 in,0.0 in,Cloudy
+12:41 PM,69 F,65 F,87 %,S,8 mph,0 mph,29.48 in,0.0 in,Cloudy
+12:52 PM,69 F,66 F,90 %,S,8 mph,0 mph,29.48 in,0.0 in,Cloudy
+1:40 PM,70 F,66 F,87 %,S,16 mph,0 mph,29.48 in,0.0 in,Cloudy
+1:52 PM,70 F,66 F,87 %,S,12 mph,0 mph,29.47 in,0.0 in,Cloudy
+2:52 PM,73 F,68 F,84 %,SSE,15 mph,0 mph,29.45 in,0.0 in,Cloudy
+3:39 PM,75 F,68 F,79 %,S,17 mph,26 mph,29.42 in,0.0 in,Cloudy
+3:47 PM,75 F,66 F,73 %,S,15 mph,0 mph,29.42 in,0.0 in,Cloudy
+3:52 PM,74 F,66 F,76 %,SSE,23 mph,29 mph,29.41 in,0.0 in,Cloudy / Windy
+4:25 PM,75 F,66 F,73 %,S,20 mph,25 mph,29.41 in,0.0 in,Cloudy
+4:34 PM,74 F,66 F,76 %,S,20 mph,25 mph,29.40 in,0.0 in,Cloudy
+4:48 PM,73 F,64 F,73 %,SSE,22 mph,31 mph,29.41 in,0.0 in,Cloudy / Windy
+4:52 PM,74 F,65 F,73 %,S,20 mph,28 mph,29.40 in,0.0 in,Cloudy
+5:52 PM,73 F,65 F,76 %,SSE,21 mph,29 mph,29.39 in,0.0 in,Cloudy / Windy
+6:08 PM,72 F,65 F,78 %,SSE,15 mph,23 mph,29.39 in,0.0 in,Cloudy
+6:48 PM,72 F,64 F,78 %,SSE,12 mph,24 mph,29.37 in,0.0 in,Cloudy
+6:52 PM,72 F,65 F,78 %,SSE,14 mph,0 mph,29.37 in,0.0 in,Cloudy
+6:58 PM,72 F,65 F,78 %,SE,17 mph,0 mph,29.37 in,0.0 in,Cloudy
+7:52 PM,71 F,65 F,81 %,SE,15 mph,0 mph,29.37 in,0.0 in,Cloudy
+8:52 PM,69 F,66 F,90 %,SE,13 mph,0 mph,29.37 in,0.0 in,Light Rain
+8:57 PM,69 F,66 F,90 %,SSE,13 mph,0 mph,29.36 in,0.0 in,Light Rain
+9:52 PM,68 F,66 F,93 %,S,14 mph,0 mph,29.36 in,0.0 in,Light Rain
+9:55 PM,68 F,66 F,93 %,SSE,16 mph,0 mph,29.36 in,0.0 in,Light Rain
+10:06 PM,67 F,65 F,93 %,SSE,18 mph,0 mph,29.36 in,0.1 in,Rain
+10:11 PM,66 F,64 F,93 %,SE,16 mph,0 mph,29.35 in,0.1 in,Rain
+10:16 PM,66 F,64 F,93 %,SE,15 mph,0 mph,29.36 in,0.1 in,Rain
+10:34 PM,67 F,64 F,90 %,SSE,7 mph,0 mph,29.36 in,0.1 in,Light Rain
+10:47 PM,66 F,64 F,94 %,WSW,8 mph,0 mph,29.36 in,0.2 in,Heavy Rain
+10:52 PM,65 F,64 F,97 %,WSW,5 mph,0 mph,29.36 in,0.3 in,Rain
+11:06 PM,66 F,64 F,93 %,SW,3 mph,0 mph,29.35 in,0.0 in,Cloudy
+11:35 PM,66 F,64 F,93 %,CALM,0 mph,0 mph,29.35 in,0.0 in,Cloudy
+11:52 PM,66 F,64 F,93 %,S,3 mph,0 mph,29.35 in,0.0 in,Cloudy

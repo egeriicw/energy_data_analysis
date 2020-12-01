@@ -1,0 +1,9 @@
+Error Report
+------------
+
+Process Date: 08/08/2018 07:43:14
+
+PROCESSING ERRORS
+
+Alexandria-VA Dominion   Invoice #: 796752906120180801   
+    Previous Balance Amount of -544.75

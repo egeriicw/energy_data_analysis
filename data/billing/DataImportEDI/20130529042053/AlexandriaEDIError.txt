@@ -1,0 +1,10 @@
+Error Report
+------------
+
+Process Date: 05/29/2013 04:20:48
+
+TOTAL DUE ERRORS
+
+Error Alexandria-VA Dominion   Invoice #: 897565027920130523   
+Total Due Amounts do not match
+EDI Total:     $0.00           Xebec Total:   $0.38

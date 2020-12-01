@@ -1,0 +1,33 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+12:52 AM,48 F,36 F,63 %,CALM,0 mph,0 mph,30.14 in,0.0 in,Cloudy
+1:52 AM,47 F,39 F,74 %,SSE,5 mph,0 mph,30.12 in,0.0 in,Cloudy
+2:52 AM,46 F,42 F,86 %,SSE,3 mph,0 mph,30.10 in,0.0 in,Cloudy
+3:52 AM,46 F,43 F,87 %,S,8 mph,0 mph,30.08 in,0.0 in,Cloudy
+4:52 AM,46 F,43 F,89 %,CALM,0 mph,0 mph,30.06 in,0.0 in,Cloudy
+5:52 AM,46 F,43 F,89 %,CALM,0 mph,0 mph,30.06 in,0.0 in,Cloudy
+6:50 AM,46 F,43 F,87 %,CALM,0 mph,0 mph,30.06 in,0.0 in,Cloudy
+6:52 AM,46 F,43 F,87 %,CALM,0 mph,0 mph,30.05 in,0.0 in,Cloudy
+7:15 AM,46 F,43 F,87 %,CALM,0 mph,0 mph,30.04 in,0.0 in,Cloudy
+7:52 AM,47 F,43 F,86 %,S,3 mph,0 mph,30.03 in,0.0 in,Cloudy
+8:49 AM,46 F,43 F,87 %,CALM,0 mph,0 mph,30.02 in,0.0 in,Cloudy
+8:52 AM,47 F,43 F,86 %,CALM,0 mph,0 mph,30.02 in,0.0 in,Cloudy
+9:52 AM,48 F,44 F,86 %,S,6 mph,0 mph,30.03 in,0.0 in,Cloudy
+10:02 AM,48 F,45 F,87 %,S,6 mph,0 mph,30.03 in,0.0 in,Cloudy
+10:52 AM,48 F,44 F,86 %,S,6 mph,0 mph,30.01 in,0.0 in,Cloudy
+11:52 AM,49 F,44 F,83 %,S,6 mph,0 mph,29.99 in,0.0 in,Cloudy
+12:52 PM,50 F,44 F,80 %,S,8 mph,0 mph,29.97 in,0.0 in,Cloudy
+1:52 PM,50 F,43 F,77 %,SSW,8 mph,0 mph,29.94 in,0.0 in,Cloudy
+2:52 PM,50 F,43 F,77 %,S,6 mph,0 mph,29.93 in,0.0 in,Cloudy
+3:52 PM,50 F,44 F,80 %,S,5 mph,0 mph,29.90 in,0.0 in,Cloudy
+4:52 PM,50 F,44 F,80 %,S,5 mph,0 mph,29.90 in,0.0 in,Cloudy
+5:52 PM,50 F,44 F,80 %,SSW,5 mph,0 mph,29.89 in,0.0 in,Cloudy
+6:52 PM,50 F,45 F,83 %,SSW,5 mph,0 mph,29.90 in,0.0 in,Cloudy
+7:52 PM,49 F,46 F,90 %,SE,6 mph,0 mph,29.86 in,0.1 in,Mostly Cloudy
+8:52 PM,50 F,45 F,83 %,CALM,0 mph,0 mph,29.86 in,0.0 in,Cloudy
+9:52 PM,49 F,46 F,90 %,CALM,0 mph,0 mph,29.87 in,0.0 in,Cloudy
+10:41 PM,48 F,46 F,93 %,SE,3 mph,0 mph,29.85 in,0.0 in,Cloudy
+10:52 PM,49 F,46 F,90 %,SE,6 mph,0 mph,29.84 in,0.0 in,Cloudy
+11:25 PM,52 F,46 F,82 %,WNW,8 mph,0 mph,29.86 in,0.0 in,Cloudy
+11:52 PM,50 F,47 F,89 %,N,3 mph,0 mph,29.85 in,0.0 in,Cloudy
+12:01 AM,50 F,46 F,87 %,CALM,0 mph,0 mph,29.84 in,0.0 in,Cloudy
+12:14 AM,48 F,46 F,93 %,E,6 mph,0 mph,29.84 in,0.0 in,Cloudy

@@ -1,0 +1,9 @@
+Error Report
+------------
+
+Process Date: 01/23/2019 04:42:00
+
+PROCESSING ERRORS
+
+Alexandria-VA Dominion   Invoice #: 668006037020190115   
+    This bill has at least on meter read that has an Estimated End Date

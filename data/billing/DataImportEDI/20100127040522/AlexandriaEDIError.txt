@@ -1,0 +1,14 @@
+Error Report
+------------
+
+Process Date: 01/27/2010 04:04:27
+
+PROCESSING ERRORS
+
+Alexandria-VA Dominion   Invoice #: 641496750220100122   Bldg Id:GENERAL SERVICES
+    Charge Code ODL002 for $33.34 not recognized
+    Charge Code ODL002 for $54.73 not recognized
+    Previous Balance Amount of -11.64
+
+Alexandria-VA Dominion   Invoice #: 896534250720100125   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 98.14

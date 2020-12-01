@@ -1,0 +1,30 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+12:52 AM,76 F,72 F,87 %,S,8 mph,0 mph,30.05 in,0.0 in,Fair
+1:52 AM,75 F,72 F,90 %,S,8 mph,0 mph,30.05 in,0.0 in,Partly Cloudy
+2:52 AM,75 F,72 F,90 %,S,7 mph,0 mph,30.04 in,0.0 in,Fair
+3:52 AM,73 F,71 F,93 %,S,7 mph,0 mph,30.05 in,0.0 in,Fair
+4:52 AM,73 F,71 F,93 %,S,3 mph,0 mph,30.04 in,0.0 in,Fair
+5:52 AM,73 F,71 F,93 %,ENE,5 mph,0 mph,30.05 in,0.0 in,Fair
+6:22 AM,72 F,71 F,97 %,ENE,8 mph,0 mph,30.07 in,0.0 in,Mostly Cloudy
+6:52 AM,72 F,69 F,91 %,NNE,9 mph,0 mph,30.08 in,0.0 in,Mostly Cloudy
+7:52 AM,72 F,69 F,91 %,NE,8 mph,0 mph,30.10 in,0.0 in,Mostly Cloudy
+8:52 AM,74 F,69 F,85 %,NNE,5 mph,0 mph,30.10 in,0.0 in,Cloudy
+9:52 AM,75 F,69 F,82 %,NE,7 mph,0 mph,30.11 in,0.0 in,Cloudy
+10:22 AM,76 F,70 F,82 %,ENE,9 mph,0 mph,30.09 in,0.0 in,Mostly Cloudy
+10:52 AM,79 F,71 F,77 %,NNE,5 mph,0 mph,30.08 in,0.0 in,Mostly Cloudy
+11:03 AM,79 F,71 F,77 %,NE,6 mph,0 mph,30.08 in,0.0 in,Mostly Cloudy
+11:19 AM,80 F,71 F,74 %,CALM,0 mph,0 mph,30.08 in,0.0 in,Mostly Cloudy
+11:52 AM,83 F,72 F,69 %,ENE,3 mph,0 mph,30.08 in,0.0 in,Mostly Cloudy
+12:52 PM,85 F,72 F,65 %,E,5 mph,0 mph,30.06 in,0.0 in,Mostly Cloudy
+1:52 PM,84 F,69 F,61 %,SSE,13 mph,0 mph,30.03 in,0.0 in,Mostly Cloudy
+2:52 PM,86 F,69 F,57 %,S,14 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
+3:52 PM,84 F,68 F,58 %,S,14 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
+4:52 PM,87 F,68 F,53 %,S,14 mph,28 mph,29.99 in,0.0 in,Mostly Cloudy
+5:52 PM,85 F,65 F,51 %,S,21 mph,0 mph,29.98 in,0.0 in,Mostly Cloudy / Windy
+6:52 PM,81 F,66 F,60 %,S,12 mph,0 mph,29.97 in,0.0 in,Mostly Cloudy
+7:52 PM,79 F,67 F,66 %,S,10 mph,0 mph,29.98 in,0.0 in,Mostly Cloudy
+8:52 PM,78 F,67 F,68 %,S,8 mph,0 mph,29.98 in,0.0 in,Partly Cloudy
+9:52 PM,78 F,65 F,64 %,SSE,6 mph,0 mph,30.01 in,0.0 in,Fair
+10:37 PM,72 F,66 F,81 %,NE,14 mph,0 mph,30.02 in,0.0 in,Fair
+10:52 PM,71 F,66 F,84 %,NE,12 mph,0 mph,30.01 in,0.0 in,Partly Cloudy
+11:52 PM,68 F,64 F,87 %,NE,12 mph,0 mph,30.01 in,0.0 in,Partly Cloudy

@@ -1,0 +1,26 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+12:52 AM,75 F,60 F,60 %,SSW,6 mph,0 mph,30.09 in,0.0 in,Mostly Cloudy
+1:52 AM,74 F,62 F,66 %,SSE,6 mph,0 mph,30.08 in,0.0 in,Mostly Cloudy
+2:52 AM,73 F,63 F,71 %,S,6 mph,0 mph,30.08 in,0.0 in,Mostly Cloudy
+3:52 AM,72 F,64 F,76 %,CALM,0 mph,0 mph,30.09 in,0.0 in,Partly Cloudy
+4:52 AM,72 F,63 F,73 %,SE,3 mph,0 mph,30.08 in,0.0 in,Partly Cloudy
+5:52 AM,72 F,64 F,76 %,CALM,0 mph,0 mph,30.09 in,0.0 in,Mostly Cloudy
+6:52 AM,72 F,64 F,76 %,CALM,0 mph,0 mph,30.10 in,0.0 in,Mostly Cloudy
+7:52 AM,75 F,66 F,73 %,CALM,0 mph,0 mph,30.11 in,0.0 in,Mostly Cloudy
+8:52 AM,77 F,66 F,69 %,VAR,3 mph,0 mph,30.12 in,0.0 in,Mostly Cloudy
+9:52 AM,79 F,65 F,62 %,S,6 mph,0 mph,30.11 in,0.0 in,Mostly Cloudy
+10:52 AM,82 F,61 F,49 %,S,7 mph,0 mph,30.11 in,0.0 in,Mostly Cloudy
+11:52 AM,83 F,60 F,46 %,S,9 mph,0 mph,30.11 in,0.0 in,Cloudy
+12:52 PM,85 F,60 F,43 %,S,10 mph,0 mph,30.09 in,0.0 in,Mostly Cloudy
+1:52 PM,83 F,61 F,47 %,SSE,8 mph,0 mph,30.09 in,0.0 in,Cloudy
+2:52 PM,84 F,61 F,46 %,SE,10 mph,0 mph,30.07 in,0.0 in,Cloudy
+3:52 PM,84 F,60 F,44 %,SE,10 mph,16 mph,30.05 in,0.0 in,Mostly Cloudy
+4:52 PM,83 F,58 F,42 %,SE,10 mph,0 mph,30.03 in,0.0 in,Mostly Cloudy
+5:52 PM,82 F,57 F,42 %,SE,12 mph,0 mph,30.02 in,0.0 in,Mostly Cloudy
+6:52 PM,83 F,57 F,41 %,SE,13 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
+7:52 PM,81 F,58 F,45 %,SE,8 mph,0 mph,30.02 in,0.0 in,Mostly Cloudy
+8:52 PM,79 F,62 F,56 %,SSE,9 mph,0 mph,30.02 in,0.0 in,Mostly Cloudy
+9:52 PM,78 F,63 F,60 %,SE,9 mph,0 mph,30.02 in,0.0 in,Fair
+9:57 PM,78 F,63 F,60 %,SE,12 mph,0 mph,30.03 in,0.0 in,Mostly Cloudy
+10:52 PM,77 F,64 F,64 %,SE,12 mph,0 mph,30.02 in,0.0 in,Cloudy
+11:52 PM,76 F,64 F,67 %,SE,7 mph,0 mph,30.03 in,0.0 in,Mostly Cloudy

@@ -1,0 +1,27 @@
+
+Alexandria Transmission Session Summary Report
+----------------------------------------------
+
+Process Date: 02/12/2010
+
+Organization:   Alexandria
+
+Acct #:               Bill Date:  Due Date:          Total:
+0014940001            02/11/2010  03/18/2010         653.84
+2596065009            02/11/2010  03/18/2010         118.83
+4032400121            02/11/2010  03/18/2010         544.89
+5863539630            02/11/2010  03/18/2010        1301.70
+6265845005            02/11/2010  03/18/2010         594.52
+6904957500            02/11/2010  03/18/2010         252.99
+7800570009            02/11/2010  03/18/2010          80.69
+7852141840            02/11/2010  03/18/2010        2498.75
+9304957500            02/11/2010  03/18/2010         234.19
+
+9 VA Dominion Invoices for a Total Invoice Amount of $6280.40
+
+9 Total Alexandria Invoices for a Total Invoice Amount of $6280.40
+
+Organization:   Total
+
+9 Total Invoices for a Total Invoice Amount of $6280.40
+

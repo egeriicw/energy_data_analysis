@@ -1,0 +1,30 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+12:52 AM,73 F,69 F,87 %,S,12 mph,0 mph,29.84 in,0.0 in,Fair
+1:52 AM,73 F,67 F,81 %,SSW,8 mph,0 mph,29.84 in,0.0 in,Partly Cloudy
+2:52 AM,72 F,67 F,84 %,SSW,7 mph,0 mph,29.84 in,0.0 in,Fair
+3:52 AM,72 F,67 F,84 %,S,8 mph,0 mph,29.82 in,0.0 in,Fair
+4:52 AM,71 F,66 F,84 %,S,7 mph,0 mph,29.82 in,0.0 in,Fair
+5:52 AM,70 F,66 F,87 %,S,7 mph,0 mph,29.83 in,0.0 in,Partly Cloudy
+6:52 AM,70 F,67 F,90 %,S,10 mph,0 mph,29.82 in,0.0 in,Partly Cloudy
+7:52 AM,71 F,66 F,84 %,SSW,9 mph,0 mph,29.83 in,0.0 in,Partly Cloudy
+8:52 AM,72 F,65 F,78 %,SSW,13 mph,0 mph,29.83 in,0.0 in,Mostly Cloudy
+9:52 AM,76 F,66 F,71 %,SSW,9 mph,0 mph,29.83 in,0.0 in,Mostly Cloudy
+10:52 AM,78 F,68 F,71 %,SSE,8 mph,0 mph,29.82 in,0.0 in,Mostly Cloudy
+11:52 AM,80 F,69 F,69 %,SSE,10 mph,0 mph,29.81 in,0.0 in,Mostly Cloudy
+12:52 PM,82 F,69 F,65 %,S,15 mph,0 mph,29.77 in,0.0 in,Partly Cloudy
+1:52 PM,84 F,72 F,67 %,S,13 mph,0 mph,29.75 in,0.0 in,Partly Cloudy
+2:52 PM,86 F,70 F,59 %,S,16 mph,0 mph,29.74 in,0.0 in,Partly Cloudy
+3:52 PM,86 F,69 F,57 %,S,15 mph,23 mph,29.72 in,0.0 in,Fair
+4:52 PM,86 F,66 F,51 %,SSW,16 mph,0 mph,29.74 in,0.0 in,Partly Cloudy
+5:52 PM,81 F,65 F,58 %,N,16 mph,0 mph,29.77 in,0.0 in,Mostly Cloudy
+6:06 PM,78 F,63 F,60 %,NNW,15 mph,0 mph,29.78 in,0.0 in,Cloudy
+6:52 PM,74 F,65 F,73 %,NNW,18 mph,26 mph,29.81 in,0.0 in,Light Rain
+6:54 PM,73 F,66 F,79 %,NNW,16 mph,26 mph,29.81 in,0.0 in,Light Rain with Thunder
+7:01 PM,72 F,67 F,84 %,NNW,17 mph,25 mph,29.82 in,0.0 in,T-Storm
+7:18 PM,69 F,67 F,93 %,N,9 mph,0 mph,29.80 in,0.1 in,Light Rain
+7:52 PM,70 F,67 F,90 %,CALM,0 mph,0 mph,29.81 in,0.1 in,Light Rain
+8:52 PM,71 F,67 F,87 %,CALM,0 mph,0 mph,29.83 in,0.0 in,Cloudy
+9:18 PM,71 F,68 F,90 %,SSE,3 mph,0 mph,29.84 in,0.0 in,Cloudy
+9:52 PM,70 F,68 F,93 %,SSW,5 mph,0 mph,29.83 in,0.0 in,Cloudy
+10:52 PM,70 F,68 F,93 %,CALM,0 mph,0 mph,29.82 in,0.0 in,Cloudy
+11:52 PM,71 F,68 F,90 %,CALM,0 mph,0 mph,29.80 in,0.0 in,Cloudy

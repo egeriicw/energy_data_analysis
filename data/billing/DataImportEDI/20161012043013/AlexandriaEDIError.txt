@@ -1,0 +1,12 @@
+Error Report
+------------
+
+Process Date: 10/12/2016 04:29:21
+
+PROCESSING ERRORS
+
+Alexandria-VA Dominion   Invoice #: 237111583920161006   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of -295.57
+
+Alexandria-VA Dominion   Invoice #: 299061750420161007   Bldg Id:SOCCER FIELD
+    This bill has at least on meter read that has an Estimated End Date

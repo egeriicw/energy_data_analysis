@@ -1,0 +1,30 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+1:52 AM,41 F,29 F,62 %,NNW,16 mph,0 mph,30.08 in,0.0 in,Light Rain
+2:52 AM,37 F,31 F,79 %,NNW,10 mph,0 mph,30.09 in,0.0 in,Wintry Mix
+3:14 AM,37 F,31 F,79 %,NNW,20 mph,0 mph,30.08 in,0.0 in,Light Snow
+3:27 AM,37 F,32 F,82 %,NNW,17 mph,0 mph,30.10 in,0.0 in,Light Snow
+3:52 AM,37 F,32 F,82 %,NNW,15 mph,0 mph,30.09 in,0.0 in,Wintry Mix
+4:52 AM,37 F,32 F,82 %,NNW,9 mph,0 mph,30.10 in,0.0 in,Wintry Mix
+5:52 AM,38 F,32 F,79 %,NNW,10 mph,0 mph,30.08 in,0.0 in,Light Snow
+6:52 AM,39 F,29 F,67 %,NNW,18 mph,26 mph,30.10 in,0.0 in,Light Snow
+7:21 AM,38 F,29 F,70 %,NW,23 mph,29 mph,30.10 in,0.0 in,Light Snow / Windy
+7:52 AM,37 F,29 F,73 %,NW,18 mph,0 mph,30.14 in,0.0 in,Light Snow
+8:52 AM,37 F,26 F,65 %,NNW,21 mph,26 mph,30.17 in,0.0 in,Light Snow / Windy
+9:17 AM,38 F,26 F,62 %,NW,17 mph,0 mph,30.18 in,0.0 in,Cloudy
+9:52 AM,38 F,25 F,60 %,NW,24 mph,31 mph,30.21 in,0.0 in,Cloudy / Windy
+10:52 AM,37 F,27 F,67 %,NW,22 mph,29 mph,30.22 in,0.0 in,Light Snow / Windy
+11:09 AM,38 F,27 F,65 %,NW,20 mph,35 mph,30.22 in,0.0 in,Cloudy
+11:52 AM,39 F,26 F,60 %,NW,23 mph,32 mph,30.25 in,0.0 in,Cloudy / Windy
+12:52 PM,41 F,25 F,53 %,NNW,22 mph,29 mph,30.26 in,0.0 in,Partly Cloudy / Windy
+1:52 PM,42 F,23 F,47 %,WNW,18 mph,28 mph,30.27 in,0.0 in,Partly Cloudy
+2:52 PM,43 F,20 F,40 %,NW,15 mph,23 mph,30.26 in,0.0 in,Partly Cloudy
+3:52 PM,43 F,20 F,40 %,W,20 mph,29 mph,30.27 in,0.0 in,Fair
+4:52 PM,43 F,19 F,38 %,NW,13 mph,0 mph,30.29 in,0.0 in,Fair
+5:52 PM,41 F,19 F,41 %,NNW,18 mph,25 mph,30.31 in,0.0 in,Fair
+6:52 PM,40 F,18 F,41 %,NW,17 mph,23 mph,30.34 in,0.0 in,Fair
+7:52 PM,38 F,18 F,44 %,NNW,10 mph,0 mph,30.36 in,0.0 in,Fair
+8:52 PM,37 F,18 F,46 %,NNW,9 mph,0 mph,30.37 in,0.0 in,Fair
+9:52 PM,35 F,18 F,50 %,N,10 mph,0 mph,30.37 in,0.0 in,Fair
+10:52 PM,35 F,18 F,50 %,NNW,7 mph,0 mph,30.38 in,0.0 in,Partly Cloudy
+11:52 PM,35 F,17 F,48 %,NW,7 mph,0 mph,30.39 in,0.0 in,Partly Cloudy
+12:52 AM,34 F,18 F,52 %,N,5 mph,0 mph,30.40 in,0.0 in,Fair

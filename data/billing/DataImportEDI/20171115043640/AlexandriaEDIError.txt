@@ -1,0 +1,200 @@
+Error Report
+------------
+
+Process Date: 11/13/2017 10:56:12
+
+PROCESSING ERRORS
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171018       
+    Previous Balance Amount of -3506.26
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171027       
+    Previous Balance Amount of -6111.17
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171019       
+    Previous Balance Amount of -325.57
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171018       
+    Previous Balance Amount of -259.70
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171019       
+    Previous Balance Amount of -511.63
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171019       
+    Previous Balance Amount of -685.77
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171019       
+    Previous Balance Amount of -82.96
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171027       
+    Previous Balance Amount of -444.45
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171019       
+    Previous Balance Amount of -562.98
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171020       
+    Previous Balance Amount of -1537.76
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171030       
+    Previous Balance Amount of -1095.66
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171018       
+    Previous Balance Amount of -4593.47
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171019       
+    Previous Balance Amount of -581.50
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171018       
+    Previous Balance Amount of -388.85
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171016       
+    Previous Balance Amount of -5920.59
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171030       
+    Previous Balance Amount of -7774.65
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171018       
+    Previous Balance Amount of -3251.58
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171018       
+    Previous Balance Amount of -405.80
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171018       
+    Previous Balance Amount of -6922.26
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171018       
+    Previous Balance Amount of -372.06
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171016       
+    Previous Balance Amount of -16998.15
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171016       
+    Previous Balance Amount of -25867.54
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171016       
+    Previous Balance Amount of -169.43
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171019       
+    Previous Balance Amount of -2741.06
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171019       
+    Previous Balance Amount of -97.94
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171019       
+    Previous Balance Amount of -1350.47
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171019       
+    Previous Balance Amount of -535.05
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171019       
+    Previous Balance Amount of -131.62
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171019       
+    Previous Balance Amount of -995.13
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171020       
+    Previous Balance Amount of -3126.87
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171019       
+    Previous Balance Amount of -2016.70
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171019       
+    Previous Balance Amount of -468.25
+
+Alexandria-Wash Gas   Invoice #: 32E+1120171019       
+    Previous Balance Amount of -105.73
+
+Alexandria-Wash Gas   Invoice #: 320001E+1120171018   
+    Previous Balance Amount of -1772.30
+
+Alexandria-Wash Gas   Invoice #: 320001E+1120171018   
+    Previous Balance Amount of -3022.78
+
+Alexandria-Wash Gas   Invoice #: 320001E+1120171018   
+    Previous Balance Amount of -993.32
+
+Alexandria-Wash Gas   Invoice #: 320001E+1120171030   
+    Previous Balance Amount of -327.08
+
+Alexandria-Wash Gas   Invoice #: 320001E+1120171020   
+    Previous Balance Amount of -1594.15
+
+Alexandria-Wash Gas   Invoice #: 320001E+1120171019   
+    Previous Balance Amount of -968.99
+
+Alexandria-Wash Gas   Invoice #: 320001E+1120171018   
+    Previous Balance Amount of -53.01
+
+Alexandria-Wash Gas   Invoice #: 320001E+1120171010   
+    Previous Balance Amount of -7.11
+
+Alexandria-Wash Gas   Invoice #: 320001E+1120171018   
+    Previous Balance Amount of -8351.41
+
+Alexandria-Wash Gas   Invoice #: 320001E+1120171018   
+    Previous Balance Amount of -1397.68
+
+Alexandria-Wash Gas   Invoice #: 320001E+1120171019   
+    Previous Balance Amount of -571.11
+
+Alexandria-Wash Gas   Invoice #: 320001E+1120171019   
+    Previous Balance Amount of -1618.32
+
+Alexandria-Wash Gas   Invoice #: 320001E+1120171019   
+    Previous Balance Amount of -505.11
+
+Alexandria-Wash Gas   Invoice #: 320001E+1120171027   
+    Previous Balance Amount of -2325.92
+
+Alexandria-Wash Gas   Invoice #: 320001E+1120171020   
+    Previous Balance Amount of -365.63
+
+Alexandria-Wash Gas   Invoice #: 320001E+1120171020   
+    Previous Balance Amount of -344.26
+
+Alexandria-Wash Gas   Invoice #: 320001E+1120171020   
+    Previous Balance Amount of -451.43
+
+Alexandria-Wash Gas   Invoice #: 320001E+1120171019   
+    Previous Balance Amount of -648.48
+
+Alexandria-Wash Gas   Invoice #: 320001E+1120171019   
+    Previous Balance Amount of -515.16
+
+Alexandria-Wash Gas   Invoice #: 320001E+1120171020   
+    Previous Balance Amount of -4554.84
+
+Alexandria-Wash Gas   Invoice #: 320001E+1120171020   
+    Previous Balance Amount of -108.91
+
+Alexandria-Wash Gas   Invoice #: 320001E+1120171018   
+    Previous Balance Amount of -645.37
+
+Alexandria-Wash Gas   Invoice #: 320002E+1120171019   
+    Previous Balance Amount of -620.56
+
+Alexandria-Wash Gas   Invoice #: 320003E+1120171019   
+    Previous Balance Amount of -1309.03
+
+Alexandria-Wash Gas   Invoice #: 320003E+1120171023   
+    Previous Balance Amount of -7641.50
+
+Alexandria-Wash Gas   Invoice #: 320003E+1120171019   
+    Previous Balance Amount of -616.27
+
+Alexandria-Wash Gas   Invoice #: 320003E+1120171018   
+    Previous Balance Amount of -167.21
+
+Alexandria-Wash Gas   Invoice #: 320003E+1120171018   
+    Previous Balance Amount of -1052.43
+
+Alexandria-Wash Gas   Invoice #: 320003E+1120171018   
+    Previous Balance Amount of -1169.93
+
+ACCOUNT #s WITH DUPLICATES IN BATCH
+
+Account #
+32E+11                
+320001E+11            
+320002E+11            
+320003E+11            

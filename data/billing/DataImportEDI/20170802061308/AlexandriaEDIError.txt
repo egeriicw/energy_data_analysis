@@ -1,0 +1,21 @@
+Error Report
+------------
+
+Process Date: 08/02/2017 06:13:03
+
+PROCESSING ERRORS
+
+Alexandria-VA Dominion   Invoice #: 351730061620170726   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 402.94
+
+Alexandria-VA Dominion   Invoice #: 189766418920170728   Bldg Id:PARKS AND RECREATION
+    Previous Balance Amount of 2660.54
+
+Alexandria-VA Dominion   Invoice #: 209632500220170728   
+    Previous Balance Amount of 14754.76
+
+Alexandria-VA Dominion   Invoice #: 210642750920170728   
+    Previous Balance Amount of 11479.98
+
+Alexandria-VA Dominion   Invoice #: 211633500720170728   
+    Previous Balance Amount of 5085.36

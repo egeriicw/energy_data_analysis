@@ -1,0 +1,33 @@
+Error Report
+------------
+
+Process Date: 11/17/2010 04:12:46
+
+PROCESSING ERRORS
+
+Alexandria-VA Dominion   Invoice #: 010423772220101110   Bldg Id:DEPT OF RECREATION
+    Previous Balance Amount of 1411.11
+
+Alexandria-VA Dominion   Invoice #: 085345000520101110   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 348.35
+
+Alexandria-VA Dominion   Invoice #: 151323000120101110   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 255.38
+
+Alexandria-VA Dominion   Invoice #: 160624000820101110   
+    Previous Balance Amount of 5633.35
+
+Alexandria-VA Dominion   Invoice #: 311064000420101110   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 576.07
+
+Alexandria-VA Dominion   Invoice #: 661573000620101110   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 362.97
+
+Alexandria-VA Dominion   Invoice #: 824586500420101110   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 1135.93
+
+Alexandria-VA Dominion   Invoice #: 848597750120101110   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 692.75
+
+Alexandria-VA Dominion   Invoice #: 952368860520101110   
+    Previous Balance Amount of 530.48

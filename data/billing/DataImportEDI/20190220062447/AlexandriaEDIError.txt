@@ -1,0 +1,12 @@
+Error Report
+------------
+
+Process Date: 02/20/2019 04:29:35
+
+PROCESSING ERRORS
+
+Alexandria-VA Dominion   Invoice #: 010423772220190212   Bldg Id:DEPT OF RECREATION
+    Charge Code RRR001 for $-1.81 not recognized
+
+Alexandria-VA Dominion   Invoice #: 668006037020190213   
+    Previous Balance Amount of -6.67

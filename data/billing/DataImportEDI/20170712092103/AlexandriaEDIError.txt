@@ -1,0 +1,361 @@
+Error Report
+------------
+
+Process Date: 07/12/2017 04:28:12
+
+PROCESSING ERRORS
+
+Alexandria-VA Dominion   Invoice #: 082333750620170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 7.49
+
+Alexandria-VA Dominion   Invoice #: 085066806220170703   
+    Previous Balance Amount of 10.84
+
+Alexandria-VA Dominion   Invoice #: 111850132720170703   
+    Previous Balance Amount of 31.06
+
+Alexandria-VA Dominion   Invoice #: 130130668220170703   
+    Previous Balance Amount of 19.60
+
+Alexandria-VA Dominion   Invoice #: 176558250520170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 167.73
+
+Alexandria-VA Dominion   Invoice #: 186376750320170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 50.12
+
+Alexandria-VA Dominion   Invoice #: 193416133020170703   
+    Previous Balance Amount of 7.99
+
+Alexandria-VA Dominion   Invoice #: 197338000720170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 140.28
+
+Alexandria-VA Dominion   Invoice #: 207339250420170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 98.12
+
+Alexandria-VA Dominion   Invoice #: 212346000420170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 30.88
+
+Alexandria-VA Dominion   Invoice #: 215460413220170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 217.77
+
+Alexandria-VA Dominion   Invoice #: 246485817020170703   
+    Previous Balance Amount of 20.66
+
+Alexandria-VA Dominion   Invoice #: 324945200820170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 40.16
+
+Alexandria-VA Dominion   Invoice #: 334190797420170703   
+    Previous Balance Amount of 26.83
+
+Alexandria-VA Dominion   Invoice #: 335563000920170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 15.86
+
+Alexandria-VA Dominion   Invoice #: 367598250220170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 15.29
+
+Alexandria-VA Dominion   Invoice #: 428768197920170703   
+    Previous Balance Amount of 18.84
+
+Alexandria-VA Dominion   Invoice #: 462610250520170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 68.50
+
+Alexandria-VA Dominion   Invoice #: 479336750120170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 76.40
+
+Alexandria-VA Dominion   Invoice #: 503340250320170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 6.59
+
+Alexandria-VA Dominion   Invoice #: 531625250020170703   
+    Previous Balance Amount of 8804.26
+
+Alexandria-VA Dominion   Invoice #: 532163000520170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 23.47
+
+Alexandria-VA Dominion   Invoice #: 541170500620170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 211.35
+
+Alexandria-VA Dominion   Invoice #: 543164750120170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 2035.28
+
+Alexandria-VA Dominion   Invoice #: 559350000120170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 14.38
+
+Alexandria-VA Dominion   Invoice #: 561195737320170703   
+    Previous Balance Amount of 10.03
+
+Alexandria-VA Dominion   Invoice #: 578191750420170703   Bldg Id:DEPT TRANSP/ENVIRON
+    Previous Balance Amount of 6.59
+
+Alexandria-VA Dominion   Invoice #: 612454040920170703   
+    Previous Balance Amount of 91.32
+
+Alexandria-VA Dominion   Invoice #: 613755753120170703   
+    Previous Balance Amount of 75.91
+
+Alexandria-VA Dominion   Invoice #: 616746567020170703   Bldg Id:DEPT OF RECREATION
+    Previous Balance Amount of 20.93
+
+Alexandria-VA Dominion   Invoice #: 643329500020170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 24.05
+
+Alexandria-VA Dominion   Invoice #: 665185028820170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 103.26
+
+Alexandria-VA Dominion   Invoice #: 692351500820170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 54.09
+
+Alexandria-VA Dominion   Invoice #: 700517250220170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 241.69
+
+Alexandria-VA Dominion   Invoice #: 712205613320170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 6.98
+
+Alexandria-VA Dominion   Invoice #: 799673344520170703   
+    Previous Balance Amount of 25.43
+
+Alexandria-VA Dominion   Invoice #: 870207172420170703   
+    Previous Balance Amount of 204.97
+
+Alexandria-VA Dominion   Invoice #: 897373040420170703   
+    Previous Balance Amount of 195.58
+
+Alexandria-VA Dominion   Invoice #: 911603918220170703   
+    Previous Balance Amount of 34.52
+
+Alexandria-VA Dominion   Invoice #: 959804405620170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 6.89
+
+Alexandria-VA Dominion   Invoice #: 990159865720170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 7.36
+
+Alexandria-VA Dominion   Invoice #: 999539000320170703   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 80.16
+
+Alexandria-VA Dominion   Invoice #: 173586500620170705   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 46.77
+
+Alexandria-VA Dominion   Invoice #: 524625750420170705   
+    Previous Balance Amount of 2285.07
+
+Alexandria-VA Dominion   Invoice #: 534878463720170705   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of -33.96
+    This bill has at least on meter read that has an Estimated End Date
+
+Alexandria-VA Dominion   Invoice #: 653315140020170705   
+    Previous Balance Amount of 10568.23
+
+Alexandria-VA Dominion   Invoice #: 661136750620170705   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 106.59
+
+Alexandria-VA Dominion   Invoice #: 715230846120170705   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 2411.18
+
+Alexandria-VA Dominion   Invoice #: 837142750420170705   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 952.95
+
+Alexandria-VA Dominion   Invoice #: 838130750620170705   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 191.75
+
+Alexandria-VA Dominion   Invoice #: 927332250420170705   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 622.19
+
+Alexandria-VA Dominion   Invoice #: 959638250820170705   
+    Previous Balance Amount of 12648.29
+
+Alexandria-VA Dominion   Invoice #: 021549000420170706   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 107.94
+
+Alexandria-VA Dominion   Invoice #: 085191000020170706   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 712.04
+
+Alexandria-VA Dominion   Invoice #: 170497000120170706   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 252.66
+
+Alexandria-VA Dominion   Invoice #: 218603250020170706   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 2179.12
+
+Alexandria-VA Dominion   Invoice #: 275201307420170706   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 46.57
+
+Alexandria-VA Dominion   Invoice #: 295975133620170706   
+    Previous Balance Amount of 18.27
+
+Alexandria-VA Dominion   Invoice #: 303383750520170706   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 230.54
+
+Alexandria-VA Dominion   Invoice #: 341959446420170706   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 4430.69
+
+Alexandria-VA Dominion   Invoice #: 387068369920170706   
+    Previous Balance Amount of 52.40
+
+Alexandria-VA Dominion   Invoice #: 467616250820170706   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 531.02
+
+Alexandria-VA Dominion   Invoice #: 526567500820170706   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 255.81
+
+Alexandria-VA Dominion   Invoice #: 583702592220170706   
+    Previous Balance Amount of 137.71
+
+Alexandria-VA Dominion   Invoice #: 639592500820170706   
+    Previous Balance Amount of 213.25
+
+Alexandria-VA Dominion   Invoice #: 660422500020170706   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 40.45
+
+Alexandria-VA Dominion   Invoice #: 756883313620170706   Bldg Id:ATTN:ELOIS ALEXANDER
+    Previous Balance Amount of 9.35
+
+Alexandria-VA Dominion   Invoice #: 848606000020170706   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 953.22
+
+Alexandria-VA Dominion   Invoice #: 855547000720170706   Bldg Id:DEPT OF GENERAL SRVS
+    Previous Balance Amount of 77.48
+
+Alexandria-VA Dominion   Invoice #: 900600000520170706   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 260.27
+
+Alexandria-VA Dominion   Invoice #: 902605750620170706   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 567.43
+
+Alexandria-VA Dominion   Invoice #: 942338325720170706   Bldg Id:DEPT OF GENERAL SERV
+    Previous Balance Amount of 186.12
+
+Alexandria-VA Dominion   Invoice #: 958178990720170706   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 15.38
+
+Alexandria-VA Dominion   Invoice #: 031354500620170707   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 97.33
+
+Alexandria-VA Dominion   Invoice #: 112228796220170707   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 305.68
+
+Alexandria-VA Dominion   Invoice #: 115632000220170707   Bldg Id:CITY MAINTENANCE YAR
+    Previous Balance Amount of 3306.97
+
+Alexandria-VA Dominion   Invoice #: 154540750220170707   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 131.00
+
+Alexandria-VA Dominion   Invoice #: 185626500220170707   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 3800.33
+
+Alexandria-VA Dominion   Invoice #: 400638463220170707   
+    Previous Balance Amount of 48.56
+
+Alexandria-VA Dominion   Invoice #: 445264296220170707   
+    Previous Balance Amount of 19991.56
+
+Alexandria-VA Dominion   Invoice #: 469647500520170707   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 24776.04
+
+Alexandria-VA Dominion   Invoice #: 641496750220170707   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 25.48
+
+Alexandria-VA Dominion   Invoice #: 662636500820170707   
+    Previous Balance Amount of 9335.52
+
+Alexandria-VA Dominion   Invoice #: 714633000120170707   Bldg Id:C/O PROPERTY MGMNT
+    Previous Balance Amount of 2825.46
+
+Alexandria-VA Dominion   Invoice #: 735263101920170707   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 2487.50
+
+Alexandria-VA Dominion   Invoice #: 870387205420170707   
+    Previous Balance Amount of 241.65
+
+Alexandria-VA Dominion   Invoice #: 895536500520170707   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 815.57
+
+Alexandria-VA Dominion   Invoice #: 044273147720170710   
+    Previous Balance Amount of 142.12
+
+Alexandria-VA Dominion   Invoice #: 066292757320170710   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 5099.95
+
+Alexandria-VA Dominion   Invoice #: 097928848720170710   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 120.83
+
+Alexandria-VA Dominion   Invoice #: 104329500320170710   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 108.65
+
+Alexandria-VA Dominion   Invoice #: 131280824720170710   
+    Previous Balance Amount of 117.54
+
+Alexandria-VA Dominion   Invoice #: 204061944320170710   
+    Previous Balance Amount of 14554.49
+
+Alexandria-VA Dominion   Invoice #: 217447605720170710   
+    Previous Balance Amount of 154.87
+
+Alexandria-VA Dominion   Invoice #: 222582250720170710   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 536.28
+
+Alexandria-VA Dominion   Invoice #: 237111583920170710   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 153.66
+
+Alexandria-VA Dominion   Invoice #: 292334795520170710   
+    Previous Balance Amount of 234.67
+
+Alexandria-VA Dominion   Invoice #: 309250074720170710   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 149.35
+
+Alexandria-VA Dominion   Invoice #: 310325750120170710   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 529.78
+
+Alexandria-VA Dominion   Invoice #: 310488370120170710   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 8802.44
+
+Alexandria-VA Dominion   Invoice #: 347061750120170710   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 444.56
+
+Alexandria-VA Dominion   Invoice #: 480265982320170710   
+    Previous Balance Amount of 27922.20
+
+Alexandria-VA Dominion   Invoice #: 568098122120170710   
+    Previous Balance Amount of 33.72
+
+Alexandria-VA Dominion   Invoice #: 607069739320170710   Bldg Id:DEPT OF REC AND PARK
+    Previous Balance Amount of 16.67
+
+Alexandria-VA Dominion   Invoice #: 631803642020170710   
+    Previous Balance Amount of 84.62
+
+Alexandria-VA Dominion   Invoice #: 667061000220170710   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 161.88
+
+Alexandria-VA Dominion   Invoice #: 685569750120170710   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 658.83
+
+Alexandria-VA Dominion   Invoice #: 719926489120170710   Bldg Id:GENERAL SRVS DEPT PR
+    Previous Balance Amount of 169.36
+
+Alexandria-VA Dominion   Invoice #: 723635750020170710   Bldg Id:MAINTENANCE FACILITY
+    Previous Balance Amount of 6017.53
+
+Alexandria-VA Dominion   Invoice #: 732059250920170710   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 105.02
+
+Alexandria-VA Dominion   Invoice #: 744817817320170710   
+    Previous Balance Amount of 195.95
+
+Alexandria-VA Dominion   Invoice #: 783503651320170710   
+    Previous Balance Amount of 2743.31
+
+Alexandria-VA Dominion   Invoice #: 865921332920170710   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 82.49
+
+Alexandria-VA Dominion   Invoice #: 895475224520170710   Bldg Id:MENTAL HEALTH
+    Previous Balance Amount of 133.33
+
+Alexandria-VA Dominion   Invoice #: 896534250720170710   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 585.89
+
+Alexandria-VA Dominion   Invoice #: 909114619220170710   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 316.62
+
+Alexandria-VA Dominion   Invoice #: 921688643320170710   Bldg Id:GENERAL SERVICES DEP
+    Previous Balance Amount of 139.86
+
+Alexandria-VA Dominion   Invoice #: 962878744320170710   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 77.05

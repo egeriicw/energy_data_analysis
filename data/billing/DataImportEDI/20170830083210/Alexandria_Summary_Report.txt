@@ -1,0 +1,25 @@
+
+Alexandria Transmission Session Summary Report
+----------------------------------------------
+
+Process Date: 08/30/2017
+
+Organization:   Alexandria
+
+Acct #:               Bill Date:  Due Date:          Total:
+9304957500            08/23/2017  09/27/2017         578.31
+3517300616            08/24/2017  09/28/2017         342.66
+1897664189            08/28/2017  10/02/2017        4043.02
+2096325002            08/28/2017  10/02/2017       22492.86
+2106427509            08/28/2017  10/02/2017       17500.49
+2116335007            08/28/2017  10/02/2017        7750.99
+
+6 VA Dominion Invoices for a Total Invoice Amount of $52708.33
+
+6 Total Alexandria Invoices for a Total Invoice Amount of $52708.33
+
+
+Organization:   Total
+
+6 Total Invoices for a Total Invoice Amount of $52708.33
+

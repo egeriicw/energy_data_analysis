@@ -1,0 +1,25 @@
+Error Report
+------------
+
+Process Date: 02/06/2020 08:31:45
+
+PROCESSING ERRORS
+
+Alexandria-Wash Gas   Invoice #: 32000027538020200128 
+    Previous Balance Amount of 23.31
+
+Alexandria-Wash Gas   Invoice #: 32000029332620200127 
+    Previous Balance Amount of 1849.54
+
+Alexandria-Wash Gas   Invoice #: 32000038228520200124 
+    Previous Balance Amount of 464.92
+
+Alexandria-Wash Gas   Invoice #: 32000044866420200127 
+    Previous Balance Amount of 26.90
+
+ACCOUNT #s WITH DUPLICATES IN BATCH
+
+Account #
+320000293326          
+320000382285          
+320000448664          

@@ -1,0 +1,15 @@
+Error Report
+------------
+
+Process Date: 12/14/2009 11:20:21
+
+PROCESSING ERRORS
+
+Alexandria-VA Dominion   Invoice #: 010423772220081212   Bldg Id:DEPT OF RECREATION
+    TOU Code DD not recognizedTOU Code PS not recognized
+
+Alexandria-VA Dominion   Invoice #: 031354500620090108   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 130.91
+
+Alexandria-VA Dominion   Invoice #: 094936150520081211   
+    Previous Balance Amount of -36.67

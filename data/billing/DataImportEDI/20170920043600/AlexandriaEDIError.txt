@@ -1,0 +1,15 @@
+Error Report
+------------
+
+Process Date: 09/20/2017 04:35:52
+
+PROCESSING ERRORS
+
+Alexandria-VA Dominion   Invoice #: 253239405920170912   Bldg Id:DEPT OF RECREATION
+    Previous Balance Amount of 91.46
+
+Alexandria-VA Dominion   Invoice #: 652173242720170918   
+    Previous Balance Amount of -90.51
+
+Alexandria-VA Dominion   Invoice #: 911508278720170918   
+    Previous Balance Amount of -81.87

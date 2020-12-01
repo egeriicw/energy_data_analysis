@@ -1,0 +1,9 @@
+Error Report
+------------
+
+Process Date: 03/06/2013 04:16:44
+
+PROCESSING ERRORS
+
+Alexandria-VA Dominion   Invoice #: 189766418920130227   Bldg Id:PARKS AND RECREATION
+    Previous Balance Amount of 20.00

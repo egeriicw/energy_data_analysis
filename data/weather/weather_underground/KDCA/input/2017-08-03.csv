@@ -1,0 +1,31 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+12:52 AM,76 F,71 F,85 %,SE,6 mph,0 mph,30.06 in,0.0 in,Partly Cloudy
+1:52 AM,75 F,70 F,84 %,SSE,7 mph,0 mph,30.05 in,0.0 in,Fair
+2:52 AM,75 F,70 F,84 %,E,3 mph,0 mph,30.05 in,0.0 in,Fair
+3:52 AM,75 F,70 F,84 %,ENE,6 mph,0 mph,30.05 in,0.0 in,Fair
+4:52 AM,73 F,69 F,87 %,NE,6 mph,0 mph,30.04 in,0.0 in,Fair
+5:52 AM,73 F,69 F,87 %,NE,8 mph,0 mph,30.05 in,0.0 in,Fair
+6:52 AM,73 F,69 F,87 %,NE,6 mph,0 mph,30.07 in,0.0 in,Fair
+7:52 AM,74 F,70 F,87 %,ENE,3 mph,0 mph,30.09 in,0.0 in,Fair
+8:52 AM,77 F,71 F,82 %,NNE,5 mph,0 mph,30.10 in,0.0 in,Fair
+9:52 AM,80 F,71 F,74 %,CALM,0 mph,0 mph,30.10 in,0.0 in,Partly Cloudy
+10:52 AM,84 F,72 F,67 %,N,3 mph,0 mph,30.10 in,0.0 in,Mostly Cloudy
+11:52 AM,86 F,71 F,61 %,NNE,3 mph,0 mph,30.10 in,0.0 in,Cloudy
+12:52 PM,87 F,71 F,59 %,CALM,0 mph,0 mph,30.08 in,0.0 in,Partly Cloudy
+1:52 PM,88 F,70 F,55 %,S,6 mph,0 mph,30.06 in,0.0 in,Partly Cloudy
+2:52 PM,89 F,70 F,53 %,S,9 mph,0 mph,30.04 in,0.0 in,Partly Cloudy
+3:52 PM,89 F,71 F,55 %,S,12 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
+4:52 PM,88 F,73 F,61 %,S,13 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
+5:52 PM,87 F,73 F,63 %,S,9 mph,0 mph,30.00 in,0.0 in,Mostly Cloudy
+6:40 PM,80 F,72 F,76 %,WNW,15 mph,0 mph,30.03 in,0.0 in,Rain
+6:43 PM,77 F,72 F,84 %,NW,20 mph,0 mph,30.04 in,0.0 in,T-Storm
+6:52 PM,73 F,68 F,84 %,NNW,17 mph,28 mph,30.04 in,0.0 in,Light Rain with Thunder
+7:04 PM,73 F,69 F,87 %,NNE,15 mph,0 mph,30.03 in,0.0 in,T-Storm
+7:21 PM,75 F,70 F,84 %,NE,9 mph,0 mph,30.04 in,0.0 in,Light Rain
+7:39 PM,74 F,71 F,91 %,NE,8 mph,0 mph,30.04 in,0.0 in,Mostly Cloudy
+7:52 PM,74 F,71 F,91 %,NE,6 mph,0 mph,30.04 in,0.0 in,Mostly Cloudy
+8:00 PM,74 F,71 F,91 %,NE,6 mph,0 mph,30.04 in,0.0 in,Mostly Cloudy
+8:52 PM,75 F,72 F,90 %,N,7 mph,0 mph,30.04 in,0.0 in,Partly Cloudy
+9:52 PM,75 F,72 F,90 %,N,7 mph,0 mph,30.05 in,0.0 in,Partly Cloudy
+10:52 PM,75 F,72 F,90 %,NE,5 mph,0 mph,30.04 in,0.0 in,Partly Cloudy
+11:52 PM,75 F,73 F,94 %,CALM,0 mph,0 mph,30.03 in,0.0 in,Fair

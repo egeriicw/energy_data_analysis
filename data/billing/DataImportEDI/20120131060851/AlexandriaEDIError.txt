@@ -1,0 +1,18 @@
+Error Report
+------------
+
+Process Date: 01/31/2012 06:08:31
+
+PROCESSING ERRORS
+
+Alexandria-Wash Gas   Invoice #: 330504990420111216   
+    Previous Balance Amount of 925.90
+
+Alexandria-Wash Gas   Invoice #: 330505020920111216   
+    Previous Balance Amount of -80.34
+
+Alexandria-Wash Gas   Invoice #: 310003092720120103   
+    Previous Balance Amount of -12.46
+
+Alexandria-Wash Gas   Invoice #: 304316229020120110   
+    Previous Balance Amount of -50.13

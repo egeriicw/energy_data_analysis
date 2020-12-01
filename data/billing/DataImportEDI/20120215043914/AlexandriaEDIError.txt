@@ -1,0 +1,15 @@
+Error Report
+------------
+
+Process Date: 02/15/2012 04:27:00
+
+PROCESSING ERRORS
+
+Alexandria-VA Dominion   Invoice #: 103050697420120210   
+    Previous Balance Amount of -9.77
+
+Alexandria-VA Dominion   Invoice #: 234212750920120210   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of -138.37
+
+Alexandria-VA Dominion   Invoice #: 572222250120120210   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of -140.64

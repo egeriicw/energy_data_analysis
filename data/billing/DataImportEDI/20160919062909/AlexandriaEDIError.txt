@@ -1,0 +1,51 @@
+Error Report
+------------
+
+Process Date: 09/19/2016 06:28:59
+
+PROCESSING ERRORS
+
+Alexandria-Wash Gas   Invoice #: 309348781120160817   
+    Previous Balance Amount of -43.91
+
+Alexandria-Wash Gas   Invoice #: 306324856520160817   
+    Previous Balance Amount of 20.45
+
+Alexandria-Wash Gas   Invoice #: 309349246420160817   
+    Previous Balance Amount of -5.78
+
+Alexandria-Wash Gas   Invoice #: 309340581320160817   
+    Previous Balance Amount of -241.35
+
+Alexandria-Wash Gas   Invoice #: 330504990420160817   
+    Previous Balance Amount of -202.05
+
+Alexandria-Wash Gas   Invoice #: 330505020920160817   
+    Previous Balance Amount of 0.30
+
+Alexandria-Wash Gas   Invoice #: 30934876720160817    
+    Previous Balance Amount of -53.67
+
+Alexandria-Wash Gas   Invoice #: 302001020720160817   
+    Previous Balance Amount of -45.27
+
+Alexandria-Wash Gas   Invoice #: 302206623120160818   
+    Previous Balance Amount of 363.85
+
+Alexandria-Wash Gas   Invoice #: 311867526720160825   
+    Previous Balance Amount of 53.25
+
+Alexandria-Wash Gas   Invoice #: 309830902820160825   
+    Previous Balance Amount of 1639.32
+
+Alexandria-Wash Gas   Invoice #: 309668940520160825   
+    Previous Balance Amount of 26.03
+
+Alexandria-Wash Gas   Invoice #: 309601900920160825   
+    Previous Balance Amount of 95.22
+
+Alexandria-Wash Gas   Invoice #: 309275885720160825   
+    Previous Balance Amount of 14.29
+
+Alexandria-Wash Gas   Invoice #: 309143220720160825   
+    Previous Balance Amount of 20.45

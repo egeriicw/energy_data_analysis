@@ -1,0 +1,30 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+12:52 AM,83 F,72 F,69 %,SSW,6 mph,0 mph,30.01 in,0.0 in,Partly Cloudy
+1:52 AM,83 F,72 F,69 %,SW,9 mph,0 mph,30.00 in,0.0 in,Fair
+2:52 AM,82 F,72 F,71 %,SW,7 mph,0 mph,29.99 in,0.0 in,Fair
+3:52 AM,80 F,74 F,81 %,S,8 mph,0 mph,29.98 in,0.0 in,Fair
+4:52 AM,80 F,72 F,76 %,WSW,5 mph,0 mph,29.99 in,0.0 in,Mostly Cloudy
+5:52 AM,79 F,72 F,79 %,SSW,5 mph,0 mph,30.00 in,0.0 in,Partly Cloudy
+6:52 AM,79 F,72 F,79 %,SSW,3 mph,0 mph,30.02 in,0.0 in,Mostly Cloudy
+7:52 AM,82 F,72 F,71 %,N,8 mph,0 mph,30.04 in,0.0 in,Mostly Cloudy
+8:52 AM,84 F,70 F,63 %,NNW,9 mph,0 mph,30.05 in,0.0 in,Mostly Cloudy
+9:52 AM,86 F,69 F,57 %,NW,12 mph,0 mph,30.06 in,0.0 in,Mostly Cloudy
+10:52 AM,88 F,66 F,48 %,N,10 mph,0 mph,30.07 in,0.0 in,Partly Cloudy
+11:52 AM,90 F,66 F,45 %,NNW,8 mph,0 mph,30.07 in,0.0 in,Partly Cloudy
+12:52 PM,90 F,67 F,46 %,N,7 mph,0 mph,30.07 in,0.0 in,Partly Cloudy
+1:52 PM,92 F,67 F,44 %,,0 mph,0 mph,30.07 in,0.0 in,Partly Cloudy
+2:52 PM,92 F,66 F,42 %,CALM,0 mph,0 mph,30.04 in,0.0 in,Partly Cloudy
+3:52 PM,92 F,67 F,44 %,NE,6 mph,0 mph,30.03 in,0.0 in,Partly Cloudy
+4:52 PM,91 F,67 F,45 %,NNE,8 mph,0 mph,30.01 in,0.0 in,Partly Cloudy
+5:52 PM,89 F,66 F,46 %,NE,8 mph,0 mph,30.02 in,0.0 in,Mostly Cloudy
+6:52 PM,88 F,68 F,51 %,NE,6 mph,0 mph,30.03 in,0.0 in,Mostly Cloudy
+7:52 PM,85 F,71 F,63 %,ESE,9 mph,0 mph,30.04 in,0.0 in,Mostly Cloudy
+8:52 PM,84 F,71 F,65 %,E,5 mph,0 mph,30.06 in,0.0 in,Cloudy
+9:21 PM,84 F,71 F,65 %,CALM,0 mph,0 mph,30.08 in,0.0 in,Thunder in the Vicinity
+9:36 PM,84 F,70 F,63 %,CALM,0 mph,0 mph,30.08 in,0.0 in,Thunder
+9:52 PM,84 F,70 F,63 %,CALM,0 mph,0 mph,30.07 in,0.0 in,Thunder
+10:27 PM,84 F,69 F,61 %,S,3 mph,0 mph,30.08 in,0.0 in,Thunder in the Vicinity
+10:52 PM,84 F,69 F,61 %,S,3 mph,0 mph,30.08 in,0.0 in,Cloudy
+11:25 PM,84 F,70 F,63 %,CALM,0 mph,0 mph,30.09 in,0.0 in,Thunder
+11:40 PM,84 F,70 F,63 %,CALM,0 mph,0 mph,30.09 in,0.0 in,Cloudy
+11:52 PM,84 F,70 F,63 %,S,3 mph,0 mph,30.10 in,0.0 in,Cloudy

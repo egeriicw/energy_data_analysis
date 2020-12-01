@@ -1,0 +1,18 @@
+Error Report
+------------
+
+Process Date: 03/13/2013 04:17:37
+
+PROCESSING ERRORS
+
+Alexandria-VA Dominion   Invoice #: 095603044920130305   
+    TOU Code DE not recognized
+
+Alexandria-VA Dominion   Invoice #: 660422500020130306   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of -0.10
+
+Alexandria-VA Dominion   Invoice #: 895536500520130307   Bldg Id:GENERAL SERVICES
+    TOU Code DE not recognized
+
+Alexandria-VA Dominion   Invoice #: 066292757320130311   Bldg Id:GENERAL SERVICES
+    TOU Code DE not recognized

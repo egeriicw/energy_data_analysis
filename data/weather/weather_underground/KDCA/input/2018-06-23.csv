@@ -1,0 +1,61 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+12:06 AM,67 F,63 F,87 %,NE,7 mph,0 mph,29.86 in,0.0 in,Cloudy
+12:52 AM,67 F,64 F,90 %,NNE,7 mph,0 mph,29.85 in,0.0 in,Cloudy
+1:16 AM,67 F,64 F,90 %,NNE,8 mph,0 mph,29.84 in,0.0 in,Light Drizzle
+1:30 AM,67 F,64 F,90 %,NNE,6 mph,0 mph,29.84 in,0.0 in,Light Drizzle
+1:41 AM,67 F,64 F,90 %,NE,5 mph,0 mph,29.84 in,0.0 in,Light Drizzle
+1:52 AM,67 F,64 F,90 %,NNE,6 mph,0 mph,29.84 in,0.0 in,Light Drizzle
+2:06 AM,67 F,64 F,90 %,N,7 mph,0 mph,29.84 in,0.0 in,Light Drizzle
+2:21 AM,67 F,64 F,90 %,N,5 mph,0 mph,29.84 in,0.0 in,Light Drizzle
+2:52 AM,67 F,65 F,93 %,NNE,7 mph,0 mph,29.82 in,0.0 in,Light Drizzle
+3:04 AM,67 F,65 F,93 %,N,7 mph,0 mph,29.82 in,0.0 in,Light Drizzle
+3:15 AM,67 F,65 F,93 %,N,6 mph,0 mph,29.82 in,0.0 in,Light Drizzle
+3:31 AM,68 F,65 F,90 %,N,6 mph,0 mph,29.82 in,0.0 in,Light Drizzle
+3:47 AM,68 F,64 F,88 %,NE,7 mph,0 mph,29.81 in,0.0 in,Light Drizzle
+3:52 AM,68 F,65 F,90 %,NE,7 mph,0 mph,29.81 in,0.0 in,Light Drizzle
+4:44 AM,68 F,66 F,93 %,NNE,6 mph,0 mph,29.79 in,0.0 in,Cloudy
+4:52 AM,68 F,65 F,90 %,NNE,6 mph,0 mph,29.79 in,0.0 in,Cloudy
+5:12 AM,69 F,66 F,90 %,N,5 mph,0 mph,29.80 in,0.0 in,Cloudy
+5:52 AM,69 F,66 F,90 %,NNE,7 mph,0 mph,29.79 in,0.0 in,Cloudy
+6:44 AM,69 F,66 F,90 %,NNE,5 mph,0 mph,29.80 in,0.0 in,Light Drizzle
+6:52 AM,69 F,67 F,93 %,N,5 mph,0 mph,29.80 in,0.0 in,Light Drizzle
+7:38 AM,70 F,67 F,90 %,NNE,3 mph,0 mph,29.82 in,0.0 in,Light Drizzle
+7:50 AM,70 F,66 F,88 %,NNE,3 mph,0 mph,29.82 in,0.0 in,Light Drizzle
+7:52 AM,70 F,68 F,93 %,NNE,3 mph,0 mph,29.82 in,0.0 in,Light Drizzle
+8:02 AM,70 F,67 F,90 %,NNE,3 mph,0 mph,29.82 in,0.0 in,Light Drizzle
+8:52 AM,71 F,68 F,90 %,NNE,6 mph,0 mph,29.82 in,0.0 in,Cloudy
+9:52 AM,72 F,68 F,87 %,CALM,0 mph,0 mph,29.82 in,0.0 in,Light Drizzle
+10:52 AM,72 F,69 F,91 %,NNE,3 mph,0 mph,29.83 in,0.0 in,Light Drizzle
+10:55 AM,72 F,69 F,91 %,CALM,0 mph,0 mph,29.82 in,0.0 in,Light Drizzle
+11:08 AM,73 F,69 F,87 %,CALM,0 mph,0 mph,29.82 in,0.0 in,Light Drizzle
+11:12 AM,72 F,69 F,91 %,CALM,0 mph,0 mph,29.82 in,0.0 in,Light Drizzle
+11:17 AM,72 F,69 F,91 %,CALM,0 mph,0 mph,29.82 in,0.0 in,Light Drizzle
+11:33 AM,74 F,70 F,87 %,CALM,0 mph,0 mph,29.81 in,0.0 in,Cloudy
+11:37 AM,74 F,69 F,85 %,CALM,0 mph,0 mph,29.81 in,0.0 in,Cloudy
+11:52 AM,75 F,70 F,84 %,CALM,0 mph,0 mph,29.81 in,0.0 in,Cloudy
+12:02 PM,75 F,69 F,82 %,CALM,0 mph,0 mph,29.82 in,0.0 in,Cloudy
+12:21 PM,75 F,70 F,84 %,SSE,3 mph,0 mph,29.81 in,0.0 in,Cloudy
+12:52 PM,75 F,70 F,84 %,S,3 mph,0 mph,29.81 in,0.0 in,Cloudy
+12:54 PM,75 F,69 F,82 %,S,3 mph,0 mph,29.81 in,0.0 in,Cloudy
+1:52 PM,77 F,70 F,79 %,SSE,5 mph,0 mph,29.80 in,0.0 in,Cloudy
+2:42 PM,78 F,70 F,76 %,SSE,7 mph,0 mph,29.78 in,0.0 in,Cloudy
+2:44 PM,78 F,70 F,76 %,SSE,8 mph,0 mph,29.78 in,0.0 in,Cloudy
+2:46 PM,79 F,70 F,74 %,SSE,8 mph,0 mph,29.78 in,0.0 in,Cloudy
+2:50 PM,79 F,70 F,74 %,S,8 mph,0 mph,29.78 in,0.0 in,Mostly Cloudy
+2:52 PM,78 F,70 F,76 %,S,7 mph,0 mph,29.78 in,0.0 in,Mostly Cloudy
+3:18 PM,78 F,69 F,74 %,S,6 mph,0 mph,29.77 in,0.0 in,Mostly Cloudy
+3:46 PM,79 F,70 F,74 %,S,3 mph,0 mph,29.78 in,0.0 in,Cloudy
+3:52 PM,80 F,70 F,71 %,VAR,6 mph,0 mph,29.78 in,0.0 in,Cloudy
+4:15 PM,80 F,70 F,71 %,SSE,7 mph,0 mph,29.76 in,0.0 in,Mostly Cloudy
+4:52 PM,80 F,69 F,69 %,S,6 mph,0 mph,29.76 in,0.0 in,Mostly Cloudy
+5:52 PM,80 F,69 F,69 %,CALM,0 mph,0 mph,29.76 in,0.0 in,Fair
+6:52 PM,79 F,70 F,74 %,SSE,5 mph,0 mph,29.77 in,0.0 in,Light Rain
+7:03 PM,79 F,70 F,74 %,S,6 mph,0 mph,29.77 in,0.0 in,Mostly Cloudy
+7:26 PM,77 F,71 F,82 %,SW,10 mph,0 mph,29.78 in,0.0 in,Rain
+7:52 PM,76 F,72 F,87 %,SSW,3 mph,0 mph,29.78 in,0.0 in,Light Rain
+8:17 PM,76 F,72 F,87 %,SSW,5 mph,0 mph,29.79 in,0.0 in,Mostly Cloudy
+8:52 PM,75 F,71 F,87 %,S,5 mph,0 mph,29.79 in,0.0 in,Light Rain
+9:28 PM,75 F,70 F,84 %,CALM,0 mph,0 mph,29.79 in,0.0 in,Mostly Cloudy
+9:52 PM,75 F,70 F,84 %,CALM,0 mph,0 mph,29.79 in,0.0 in,Fair
+10:52 PM,74 F,71 F,91 %,NW,6 mph,0 mph,29.81 in,0.0 in,Fair
+11:52 PM,73 F,70 F,90 %,CALM,0 mph,0 mph,29.81 in,0.0 in,Fair

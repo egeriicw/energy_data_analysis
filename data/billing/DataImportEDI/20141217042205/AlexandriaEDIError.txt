@@ -1,0 +1,30 @@
+Error Report
+------------
+
+Process Date: 12/17/2014 04:21:37
+
+PROCESSING ERRORS
+
+Alexandria-VA Dominion   Invoice #: 237111583920141209   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 160.74
+
+Alexandria-VA Dominion   Invoice #: 295975133620141209   
+    Previous Balance Amount of 17.47
+
+Alexandria-VA Dominion   Invoice #: 631803642020141209   
+    Previous Balance Amount of 53.52
+
+Alexandria-VA Dominion   Invoice #: 227812620220141211   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of 52.86
+
+Alexandria-VA Dominion   Invoice #: 259606500920141211   Bldg Id:GENERAL SERVICES
+    This bill has at least on meter read that has an Estimated End Date
+
+Alexandria-VA Dominion   Invoice #: 699824985520141215   
+    Previous Balance Amount of 42.49
+
+Alexandria-VA Dominion   Invoice #: 797546780920141215   
+    Previous Balance Amount of 37.86
+
+Alexandria-VA Dominion   Invoice #: 804409148920141215   
+    Previous Balance Amount of 24.60

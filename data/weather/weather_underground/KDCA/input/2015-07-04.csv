@@ -1,0 +1,62 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+12:52 AM,74 F,67 F,79 %,CALM,0 mph,0 mph,29.91 in,0.0 in,Cloudy
+1:52 AM,73 F,67 F,81 %,ENE,5 mph,0 mph,29.89 in,0.0 in,Light Rain
+2:50 AM,73 F,66 F,78 %,CALM,0 mph,0 mph,29.89 in,0.0 in,Cloudy
+2:52 AM,74 F,67 F,79 %,CALM,0 mph,0 mph,29.89 in,0.0 in,Cloudy
+3:52 AM,73 F,68 F,84 %,NE,5 mph,0 mph,29.87 in,0.0 in,Cloudy
+4:52 AM,73 F,68 F,84 %,N,3 mph,0 mph,29.86 in,0.0 in,Cloudy
+5:52 AM,73 F,68 F,84 %,NE,5 mph,0 mph,29.87 in,0.0 in,Cloudy
+6:37 AM,73 F,68 F,83 %,NNE,3 mph,0 mph,29.87 in,0.0 in,Cloudy
+6:52 AM,74 F,68 F,82 %,NE,3 mph,0 mph,29.87 in,0.0 in,Mostly Cloudy
+7:52 AM,74 F,68 F,82 %,NE,3 mph,0 mph,29.88 in,0.0 in,Cloudy
+8:52 AM,75 F,68 F,79 %,CALM,0 mph,0 mph,29.89 in,0.0 in,Light Rain
+9:02 AM,73 F,70 F,88 %,N,3 mph,0 mph,29.89 in,0.0 in,Light Rain
+9:43 AM,73 F,70 F,88 %,N,3 mph,0 mph,29.90 in,0.0 in,Light Rain
+9:46 AM,73 F,70 F,88 %,N,5 mph,0 mph,29.90 in,0.0 in,Rain
+9:52 AM,73 F,69 F,87 %,NW,5 mph,0 mph,29.90 in,0.1 in,Heavy Rain
+9:55 AM,73 F,70 F,88 %,CALM,0 mph,0 mph,29.90 in,0.0 in,Rain
+10:19 AM,73 F,70 F,88 %,N,3 mph,0 mph,29.91 in,0.1 in,Light Rain
+10:32 AM,73 F,68 F,83 %,CALM,0 mph,0 mph,29.90 in,0.1 in,Cloudy
+10:38 AM,73 F,68 F,83 %,NNE,3 mph,0 mph,29.90 in,0.1 in,Cloudy
+10:45 AM,73 F,68 F,83 %,NE,3 mph,0 mph,29.90 in,0.1 in,Light Rain
+10:52 AM,74 F,69 F,85 %,CALM,0 mph,0 mph,29.90 in,0.1 in,Cloudy
+11:07 AM,73 F,70 F,88 %,NNE,3 mph,0 mph,29.90 in,0.0 in,Mostly Cloudy
+11:52 AM,77 F,69 F,76 %,NNE,5 mph,0 mph,29.90 in,0.0 in,Cloudy
+11:59 AM,77 F,70 F,78 %,VAR,3 mph,0 mph,29.90 in,0.0 in,Cloudy
+12:47 PM,79 F,70 F,74 %,E,3 mph,0 mph,29.90 in,0.0 in,Cloudy
+12:52 PM,78 F,70 F,76 %,ENE,3 mph,0 mph,29.90 in,0.0 in,Cloudy
+1:37 PM,81 F,70 F,70 %,SE,3 mph,0 mph,29.90 in,0.0 in,Cloudy
+1:52 PM,80 F,70 F,71 %,SE,3 mph,0 mph,29.89 in,0.0 in,Cloudy
+2:52 PM,82 F,70 F,67 %,S,3 mph,0 mph,29.88 in,0.0 in,Cloudy
+3:52 PM,83 F,70 F,65 %,CALM,0 mph,0 mph,29.88 in,0.0 in,Cloudy
+4:09 PM,82 F,70 F,66 %,N,7 mph,0 mph,29.88 in,0.0 in,Light Rain
+4:20 PM,79 F,72 F,78 %,N,12 mph,0 mph,29.88 in,0.0 in,Rain
+4:23 PM,79 F,72 F,78 %,N,12 mph,0 mph,29.89 in,0.0 in,Heavy Rain
+4:26 PM,77 F,72 F,83 %,NNE,5 mph,0 mph,29.89 in,0.1 in,Heavy Rain
+4:29 PM,77 F,72 F,83 %,NNW,9 mph,0 mph,29.90 in,0.1 in,Heavy Rain
+4:30 PM,77 F,72 F,83 %,NNW,9 mph,0 mph,29.89 in,0.1 in,Heavy Rain
+4:35 PM,75 F,72 F,89 %,CALM,0 mph,0 mph,29.90 in,0.3 in,Heavy Rain
+4:38 PM,75 F,72 F,89 %,CALM,0 mph,0 mph,29.90 in,0.4 in,Heavy Rain
+4:46 PM,75 F,72 F,89 %,CALM,0 mph,0 mph,29.90 in,0.4 in,Light Rain with Thunder
+4:52 PM,76 F,71 F,85 %,N,8 mph,0 mph,29.91 in,0.4 in,Heavy T-Storm
+4:55 PM,75 F,72 F,89 %,N,9 mph,0 mph,29.90 in,0.1 in,T-Storm
+5:02 PM,73 F,70 F,88 %,CALM,0 mph,0 mph,29.90 in,0.1 in,Heavy T-Storm
+5:04 PM,73 F,70 F,88 %,CALM,0 mph,0 mph,29.90 in,0.1 in,Heavy T-Storm
+5:10 PM,73 F,70 F,88 %,NE,5 mph,0 mph,29.90 in,0.2 in,Light Rain with Thunder
+5:16 PM,75 F,70 F,83 %,ENE,3 mph,0 mph,29.90 in,0.2 in,Light Rain
+5:30 PM,75 F,70 F,83 %,CALM,0 mph,0 mph,29.90 in,0.2 in,Light Rain
+5:52 PM,76 F,70 F,82 %,ESE,3 mph,0 mph,29.90 in,0.2 in,Cloudy
+6:26 PM,77 F,70 F,78 %,CALM,0 mph,0 mph,29.91 in,0.0 in,Cloudy
+6:52 PM,77 F,70 F,79 %,CALM,0 mph,0 mph,29.93 in,0.0 in,Cloudy
+7:52 PM,77 F,71 F,82 %,CALM,0 mph,0 mph,29.94 in,0.0 in,Mostly Cloudy
+7:58 PM,75 F,72 F,89 %,SSE,3 mph,0 mph,29.94 in,0.0 in,Mostly Cloudy
+8:31 PM,77 F,72 F,83 %,CALM,0 mph,0 mph,29.95 in,0.0 in,Mostly Cloudy
+8:52 PM,76 F,71 F,85 %,CALM,0 mph,0 mph,29.95 in,0.0 in,Mostly Cloudy
+9:43 PM,75 F,72 F,89 %,ENE,3 mph,0 mph,29.98 in,0.0 in,Mostly Cloudy
+9:52 PM,76 F,71 F,85 %,NNE,5 mph,0 mph,29.98 in,0.0 in,Haze
+10:11 PM,75 F,72 F,89 %,NE,7 mph,0 mph,29.99 in,0.0 in,Haze
+10:23 PM,75 F,70 F,83 %,NE,7 mph,0 mph,29.99 in,0.0 in,Haze
+10:30 PM,75 F,70 F,83 %,NE,6 mph,0 mph,29.99 in,0.0 in,Haze
+10:49 PM,75 F,70 F,83 %,ENE,6 mph,0 mph,30.00 in,0.0 in,Haze
+10:52 PM,75 F,70 F,84 %,ENE,7 mph,0 mph,30.00 in,0.0 in,Haze
+11:52 PM,74 F,69 F,85 %,NNE,5 mph,0 mph,30.02 in,0.0 in,Haze

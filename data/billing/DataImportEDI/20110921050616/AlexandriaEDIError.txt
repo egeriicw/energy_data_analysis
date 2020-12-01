@@ -1,0 +1,438 @@
+Error Report
+------------
+
+Process Date: 09/21/2011 04:40:29
+
+PROCESSING ERRORS
+
+Alexandria-Wash Gas   Invoice #: 306308707020110      
+    Previous Balance Amount of 554.54
+
+Alexandria-Wash Gas   Invoice #: 302001020720110      
+    Previous Balance Amount of -180.24
+
+Alexandria-Wash Gas   Invoice #: 309348781120110      
+    Previous Balance Amount of -29.76
+
+Alexandria-Wash Gas   Invoice #: 306324856520110      
+    Previous Balance Amount of 11.60
+
+Alexandria-Wash Gas   Invoice #: 309349246420110      
+    Previous Balance Amount of 228.51
+
+Alexandria-Wash Gas   Invoice #: 309348767020110      
+    Previous Balance Amount of 116.33
+
+Alexandria-Wash Gas   Invoice #: 309143220720110      
+    Previous Balance Amount of -2172.27
+
+Alexandria-Wash Gas   Invoice #: 309830902820110      
+    Previous Balance Amount of -79.95
+
+Alexandria-Wash Gas   Invoice #: 309668940520110      
+    Previous Balance Amount of -63.20
+
+Alexandria-Wash Gas   Invoice #: 311867526720110      
+    Previous Balance Amount of -1063.99
+
+Alexandria-Wash Gas   Invoice #: 309275885720110      
+    Previous Balance Amount of 84.48
+
+Alexandria-Wash Gas   Invoice #: 300018620920110      
+    Previous Balance Amount of 111.40
+
+Alexandria-Wash Gas   Invoice #: 310003410120110      
+    Previous Balance Amount of 14.24
+
+Alexandria-Wash Gas   Invoice #: 300120351620110      
+    Previous Balance Amount of -51.21
+
+Alexandria-Wash Gas   Invoice #: 310003400220110      
+    Previous Balance Amount of 5800.34
+
+Alexandria-Wash Gas   Invoice #: 301750790020110      
+    Previous Balance Amount of 17.01
+
+Alexandria-Wash Gas   Invoice #: 302159301120110      
+    Previous Balance Amount of -24.29
+
+Alexandria-Wash Gas   Invoice #: 301752501920110      
+    Previous Balance Amount of -45.21
+
+Alexandria-Wash Gas   Invoice #: 304122721020110      
+    Previous Balance Amount of 411.53
+
+Alexandria-Wash Gas   Invoice #: 300204602120110      
+    Previous Balance Amount of 186.13
+
+Alexandria-Wash Gas   Invoice #: 300407800620110      
+    Previous Balance Amount of -176.50
+
+Alexandria-Wash Gas   Invoice #: 301752510020110      
+    Previous Balance Amount of 13.67
+
+Alexandria-Wash Gas   Invoice #: 303729760720110      
+    Previous Balance Amount of 15.00
+
+Alexandria-Wash Gas   Invoice #: 300702811520110      
+    Previous Balance Amount of 3.99
+
+Alexandria-Wash Gas   Invoice #: 300102055520110      
+    Previous Balance Amount of -118.05
+
+Alexandria-Wash Gas   Invoice #: 300107700120110      
+    Previous Balance Amount of 111.57
+
+Alexandria-Wash Gas   Invoice #: 300209101920110      
+    Previous Balance Amount of 17.04
+
+Alexandria-Wash Gas   Invoice #: 300409851720110      
+    Previous Balance Amount of 49.80
+
+Alexandria-Wash Gas   Invoice #: 301750581320110      
+    Previous Balance Amount of 4.50
+
+Alexandria-Wash Gas   Invoice #: 304122700420110      
+    Previous Balance Amount of 1246.65
+
+Alexandria-Wash Gas   Invoice #: 300204450520110      
+    Previous Balance Amount of 611.23
+
+Alexandria-Wash Gas   Invoice #: 309423010320110      
+    Previous Balance Amount of -21.10
+
+Alexandria-Wash Gas   Invoice #: 304532503620110      
+    Previous Balance Amount of 89.91
+
+Alexandria-Wash Gas   Invoice #: 303919841520110      
+    Previous Balance Amount of 84.63
+
+Alexandria-Wash Gas   Invoice #: 308325051820110      
+    Previous Balance Amount of 108.01
+
+Alexandria-Wash Gas   Invoice #: 304916802820110      
+    Previous Balance Amount of 275.26
+
+Alexandria-Wash Gas   Invoice #: 309174001320110      
+    Previous Balance Amount of 208.75
+
+Alexandria-Wash Gas   Invoice #: 309109821420110      
+    Previous Balance Amount of 154.70
+
+Alexandria-Wash Gas   Invoice #: 309290542520110      
+    Previous Balance Amount of 61.03
+
+Alexandria-Wash Gas   Invoice #: 306817401420110      
+    Previous Balance Amount of 53.70
+
+Alexandria-Wash Gas   Invoice #: 310028090220110      
+    Previous Balance Amount of 130.19
+
+Alexandria-Wash Gas   Invoice #: 310761652020110      
+    Previous Balance Amount of 278.11
+
+Alexandria-Wash Gas   Invoice #: 310025161420110      
+    Previous Balance Amount of 31.81
+
+Alexandria-Wash Gas   Invoice #: 310027045720110      
+    Previous Balance Amount of 1.01
+
+Alexandria-Wash Gas   Invoice #: 310028531520110      
+    Previous Balance Amount of 65.26
+
+Alexandria-Wash Gas   Invoice #: 309290552420110      
+    Previous Balance Amount of 244.38
+
+Alexandria-Wash Gas   Invoice #: 306818450020110      
+    Previous Balance Amount of 451.02
+
+Alexandria-Wash Gas   Invoice #: 306907301720110      
+    Previous Balance Amount of 231.95
+
+Alexandria-Wash Gas   Invoice #: 310005360620110      
+    Previous Balance Amount of 457.74
+
+Alexandria-Wash Gas   Invoice #: 307706001420110      
+    Previous Balance Amount of 143.54
+
+Alexandria-Wash Gas   Invoice #: 310010041520110      
+    Previous Balance Amount of 83.54
+
+Alexandria-Wash Gas   Invoice #: 307715900620110      
+    Previous Balance Amount of 152.40
+
+Alexandria-Wash Gas   Invoice #: 314052251120110      
+    Previous Balance Amount of 293.97
+
+Alexandria-Wash Gas   Invoice #: 307112350320110      
+    Previous Balance Amount of 8.60
+
+Alexandria-Wash Gas   Invoice #: 304731303020110      
+    Previous Balance Amount of 354.44
+
+Alexandria-Wash Gas   Invoice #: 310010091020110      
+    Previous Balance Amount of 136.94
+
+Alexandria-Wash Gas   Invoice #: 330504990420110      
+    Previous Balance Amount of 554.54
+
+Alexandria-Wash Gas   Invoice #: 330505020920110      
+    Previous Balance Amount of -180.24
+
+Alexandria-Wash Gas   Invoice #: 300101190120110      
+    Previous Balance Amount of -29.76
+
+Alexandria-Wash Gas   Invoice #: 300400000020110      
+    Previous Balance Amount of 11.60
+
+Alexandria-Wash Gas   Invoice #: 304316229020110      
+    Previous Balance Amount of 228.51
+
+Alexandria-Wash Gas   Invoice #: 310003092720110      
+    Previous Balance Amount of 116.33
+
+Alexandria-Wash Gas   Invoice #: 310028080320110      
+    Previous Balance Amount of -2172.27
+
+Alexandria-Wash Gas   Invoice #: 310005615320110      
+    Previous Balance Amount of -79.95
+
+Alexandria-Wash Gas   Invoice #: 310011682520110      
+    Previous Balance Amount of -63.20
+
+Alexandria-Wash Gas   Invoice #: 310028522420110      
+    Previous Balance Amount of -1063.99
+
+TOTAL DUE ERRORS
+
+Error Alexandria-Wash Gas   Invoice #: 306308707020110      
+Total Due Amounts do not match
+EDI Total:     $96.38          Xebec Total:   $606.27
+
+Error Alexandria-Wash Gas   Invoice #: 302001020720110      
+Total Due Amounts do not match
+EDI Total:     $180.44         Xebec Total:   $19.16
+
+Error Alexandria-Wash Gas   Invoice #: 309348781120110      
+Total Due Amounts do not match
+EDI Total:     $135.13         Xebec Total:   $382.27
+
+Error Alexandria-Wash Gas   Invoice #: 306324856520110      
+Total Due Amounts do not match
+EDI Total:     $126.49         Xebec Total:   $149.35
+
+Error Alexandria-Wash Gas   Invoice #: 309349246420110      
+Total Due Amounts do not match
+EDI Total:     $588.95         Xebec Total:   $839.36
+
+Error Alexandria-Wash Gas   Invoice #: 309348767020110      
+Total Due Amounts do not match
+EDI Total:     $113.29         Xebec Total:   $259.98
+
+Error Alexandria-Wash Gas   Invoice #: 309143220720110      
+Total Due Amounts do not match
+EDI Total:     $13.79          Xebec Total:   $-2139.10
+
+Error Alexandria-Wash Gas   Invoice #: 309830902820110      
+Total Due Amounts do not match
+EDI Total:     $2333.58        Xebec Total:   $2269.98
+
+Error Alexandria-Wash Gas   Invoice #: 309668940520110      
+Total Due Amounts do not match
+EDI Total:     $149.32         Xebec Total:   $102.47
+
+Error Alexandria-Wash Gas   Invoice #: 311867526720110      
+Total Due Amounts do not match
+EDI Total:     $-1005.63       Xebec Total:   $-988.43
+
+Error Alexandria-Wash Gas   Invoice #: 300120351620110      
+Total Due Amounts do not match
+EDI Total:     $44.23          Xebec Total:   $58.56
+
+Error Alexandria-Wash Gas   Invoice #: 310003400220110      
+Total Due Amounts do not match
+EDI Total:     $13084.23       Xebec Total:   $13302.25
+
+Error Alexandria-Wash Gas   Invoice #: 310011230320110      
+Total Due Amounts do not match
+EDI Total:     $151.79         Xebec Total:   $163.19
+
+Error Alexandria-Wash Gas   Invoice #: 301750790020110      
+Total Due Amounts do not match
+EDI Total:     $32.37          Xebec Total:   $33.52
+
+Error Alexandria-Wash Gas   Invoice #: 302159301120110      
+Total Due Amounts do not match
+EDI Total:     $39.29          Xebec Total:   $48.18
+
+Error Alexandria-Wash Gas   Invoice #: 301752501920110      
+Total Due Amounts do not match
+EDI Total:     $348.55         Xebec Total:   $373.56
+
+Error Alexandria-Wash Gas   Invoice #: 304122721020110      
+Total Due Amounts do not match
+EDI Total:     $632.94         Xebec Total:   $638.89
+
+Error Alexandria-Wash Gas   Invoice #: 300204602120110      
+Total Due Amounts do not match
+EDI Total:     $304.90         Xebec Total:   $326.33
+
+Error Alexandria-Wash Gas   Invoice #: 300407800620110      
+Total Due Amounts do not match
+EDI Total:     $-167.89        Xebec Total:   $-160.15
+
+Error Alexandria-Wash Gas   Invoice #: 301752510020110      
+Total Due Amounts do not match
+EDI Total:     $32.71          Xebec Total:   $34.01
+
+Error Alexandria-Wash Gas   Invoice #: 303729760720110      
+Total Due Amounts do not match
+EDI Total:     $30.39          Xebec Total:   $31.49
+
+Error Alexandria-Wash Gas   Invoice #: 300702811520110      
+Total Due Amounts do not match
+EDI Total:     $18.11          Xebec Total:   $20.36
+
+Error Alexandria-Wash Gas   Invoice #: 300102055520110      
+Total Due Amounts do not match
+EDI Total:     $-101.86        Xebec Total:   $-100.57
+
+Error Alexandria-Wash Gas   Invoice #: 300107700120110      
+Total Due Amounts do not match
+EDI Total:     $136.92         Xebec Total:   $138.81
+
+Error Alexandria-Wash Gas   Invoice #: 300209101920110      
+Total Due Amounts do not match
+EDI Total:     $47.81          Xebec Total:   $49.97
+
+Error Alexandria-Wash Gas   Invoice #: 300409851720110      
+Total Due Amounts do not match
+EDI Total:     $134.49         Xebec Total:   $146.03
+
+Error Alexandria-Wash Gas   Invoice #: 301750581320110      
+Total Due Amounts do not match
+EDI Total:     $30.01          Xebec Total:   $37.28
+
+Error Alexandria-Wash Gas   Invoice #: 304122700420110      
+Total Due Amounts do not match
+EDI Total:     $1709.46        Xebec Total:   $1731.63
+
+Error Alexandria-Wash Gas   Invoice #: 300204450520110      
+Total Due Amounts do not match
+EDI Total:     $976.06         Xebec Total:   $1013.88
+
+Error Alexandria-Wash Gas   Invoice #: 309423010320110      
+Total Due Amounts do not match
+EDI Total:     $34.60          Xebec Total:   $42.01
+
+Error Alexandria-Wash Gas   Invoice #: 304532503620110      
+Total Due Amounts do not match
+EDI Total:     $210.75         Xebec Total:   $220.44
+
+Error Alexandria-Wash Gas   Invoice #: 303919841520110      
+Total Due Amounts do not match
+EDI Total:     $191.69         Xebec Total:   $201.09
+
+Error Alexandria-Wash Gas   Invoice #: 308325051820110      
+Total Due Amounts do not match
+EDI Total:     $231.44         Xebec Total:   $242.25
+
+Error Alexandria-Wash Gas   Invoice #: 304916802820110      
+Total Due Amounts do not match
+EDI Total:     $335.34         Xebec Total:   $340.68
+
+Error Alexandria-Wash Gas   Invoice #: 309174001320110      
+Total Due Amounts do not match
+EDI Total:     $259.51         Xebec Total:   $263.54
+
+Error Alexandria-Wash Gas   Invoice #: 309109821420110      
+Total Due Amounts do not match
+EDI Total:     $271.25         Xebec Total:   $282.43
+
+Error Alexandria-Wash Gas   Invoice #: 309290542520110      
+Total Due Amounts do not match
+EDI Total:     $162.68         Xebec Total:   $173.81
+
+Error Alexandria-Wash Gas   Invoice #: 306817401420110      
+Total Due Amounts do not match
+EDI Total:     $119.82         Xebec Total:   $124.38
+
+Error Alexandria-Wash Gas   Invoice #: 309290552420110      
+Total Due Amounts do not match
+EDI Total:     $287.29         Xebec Total:   $292.47
+
+Error Alexandria-Wash Gas   Invoice #: 306818450020110      
+Total Due Amounts do not match
+EDI Total:     $489.62         Xebec Total:   $500.43
+
+Error Alexandria-Wash Gas   Invoice #: 306907301720110      
+Total Due Amounts do not match
+EDI Total:     $277.84         Xebec Total:   $281.97
+
+Error Alexandria-Wash Gas   Invoice #: 310005360620110      
+Total Due Amounts do not match
+EDI Total:     $956.59         Xebec Total:   $997.24
+
+Error Alexandria-Wash Gas   Invoice #: 307706001420110      
+Total Due Amounts do not match
+EDI Total:     $164.99         Xebec Total:   $168.45
+
+Error Alexandria-Wash Gas   Invoice #: 310010041520110      
+Total Due Amounts do not match
+EDI Total:     $100.63         Xebec Total:   $102.17
+
+Error Alexandria-Wash Gas   Invoice #: 307715900620110      
+Total Due Amounts do not match
+EDI Total:     $178.34         Xebec Total:   $181.36
+
+Error Alexandria-Wash Gas   Invoice #: 307112350320110      
+Total Due Amounts do not match
+EDI Total:     $32.96          Xebec Total:   $34.39
+
+Error Alexandria-Wash Gas   Invoice #: 304731303020110      
+Total Due Amounts do not match
+EDI Total:     $432.74         Xebec Total:   $438.84
+
+Error Alexandria-Wash Gas   Invoice #: 310010091020110      
+Total Due Amounts do not match
+EDI Total:     $152.09         Xebec Total:   $155.21
+
+Error Alexandria-Wash Gas   Invoice #: 330504990420110      
+Total Due Amounts do not match
+EDI Total:     $509.89         Xebec Total:   $606.27
+
+Error Alexandria-Wash Gas   Invoice #: 330505020920110      
+Total Due Amounts do not match
+EDI Total:     $-161.28        Xebec Total:   $19.16
+
+Error Alexandria-Wash Gas   Invoice #: 300101190120110      
+Total Due Amounts do not match
+EDI Total:     $228.25         Xebec Total:   $382.27
+
+Error Alexandria-Wash Gas   Invoice #: 300400000020110      
+Total Due Amounts do not match
+EDI Total:     $22.19          Xebec Total:   $149.35
+
+Error Alexandria-Wash Gas   Invoice #: 304316229020110      
+Total Due Amounts do not match
+EDI Total:     $246.26         Xebec Total:   $839.36
+
+Error Alexandria-Wash Gas   Invoice #: 310003092720110      
+Total Due Amounts do not match
+EDI Total:     $143.76         Xebec Total:   $259.98
+
+Error Alexandria-Wash Gas   Invoice #: 310028080320110      
+Total Due Amounts do not match
+EDI Total:     $-2152.89       Xebec Total:   $-2139.10
+
+Error Alexandria-Wash Gas   Invoice #: 310005615320110      
+Total Due Amounts do not match
+EDI Total:     $-64.82         Xebec Total:   $2269.98
+
+Error Alexandria-Wash Gas   Invoice #: 310011682520110      
+Total Due Amounts do not match
+EDI Total:     $-47.94         Xebec Total:   $102.47
+
+Error Alexandria-Wash Gas   Invoice #: 310028522420110      
+Total Due Amounts do not match
+EDI Total:     $17.20          Xebec Total:   $-988.43

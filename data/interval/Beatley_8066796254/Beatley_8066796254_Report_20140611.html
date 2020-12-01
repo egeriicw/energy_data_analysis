@@ -1,0 +1,1645 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+
+
+
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=8"/>
+        <meta http-equiv="Cache-Control" content="No-Cache"/>
+        <meta http-equiv="Expires" content="-1"/>
+        <meta http-equiv="Pragma" content="No-Cache"/>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link rel="SHORTCUT ICON" href="/externalPortalWebApp/dom.ico" type="image/x-icon"/>
+        
+        
+        
+        
+        
+
+
+
+<title>Dominion Customer Self Service</title><link rel="stylesheet" type="text/css" href="/externalPortalWebApp/framework/skins/domdotcom/css/body.css"><link rel="stylesheet" type="text/css" href="/externalPortalWebApp/framework/skins/domdotcom/css/button.css"><link rel="stylesheet" type="text/css" href="/externalPortalWebApp/framework/skins/domdotcom/alert/css/window-alert.css"><link rel="stylesheet" type="text/css" href="/externalPortalWebApp/framework/skins/domdotcom/css/window.css"><link rel="stylesheet" type="text/css" href="/externalPortalWebApp/framework/skins/domdotcom/plain/css/window-plain.css"><link rel="stylesheet" type="text/css" href="/externalPortalWebApp/framework/skins/domdotcom/css/portlet.css"><link rel="stylesheet" type="text/css" href="/externalPortalWebApp/framework/skins/domdotcom/css/book.css"><link rel="stylesheet" type="text/css" href="/externalPortalWebApp/framework/skins/domdotcom/css/layout.css"><link rel="stylesheet" type="text/css" href="/externalPortalWebApp/framework/skins/domdotcom/css/tables.css"><link rel="stylesheet" type="text/css" href="/externalPortalWebApp/framework/skins/domdotcom/css/headerfooter.css"><link rel="stylesheet" type="text/css" href="/externalPortalWebApp/framework/skins/domdotcom/css/base_presentation.css"><link rel="stylesheet" type="text/css" href="/externalPortalWebApp/framework/skins/domdotcom/dwwm/storyboardstyle.css"><link rel="stylesheet" type="text/css" href="/externalPortalWebApp/framework/skins/domdotcom/dwwm/premise.css"><link rel="stylesheet" type="text/css" href="/externalPortalWebApp/framework/skins/domdotcom/dwwm/tables.css"><link rel="stylesheet" type="text/css" href="/externalPortalWebApp/framework/skins/domdotcom/dwwm/scorecards.css"><link rel="stylesheet" type="text/css" href="/externalPortalWebApp/framework/skins/domdotcom/css/detail_presentation.css"><link rel="stylesheet" type="text/css" href="/externalPortalWebApp/framework/skins/domdotcom/css/master.css"><script src="/externalPortalWebApp/framework/skins/domdotcom/js/delete.js" type="text/javascript"></script><script src="/externalPortalWebApp/framework/skins/domdotcom/js/dommenu.js" type="text/javascript"></script><script src="/externalPortalWebApp/framework/skins/domdotcom/js/float.js" type="text/javascript"></script><script src="/externalPortalWebApp/framework/skins/domdotcom/js/menu.js" type="text/javascript"></script><script src="/externalPortalWebApp/framework/skins/domdotcom/js/menufx.js" type="text/javascript"></script><script src="/externalPortalWebApp/framework/skins/domdotcom/js/skin.js" type="text/javascript"></script><script src="/externalPortalWebApp/framework/skins/domdotcom/js/util.js" type="text/javascript"></script>
+
+
+
+	</head>
+
+
+
+
+
+
+
+
+
+    
+    <body
+        
+        class="bea-portal-body"
+        
+        onload="initSkin(); startSDC(); initSignout(); if ('function' == typeof window.pageOnload){pageOnload(); };if (document.getElementById('SurveyMessage') != null) {new Effect.BlindDown('SurveyMessage', {duration:.5})};"
+        
+    >
+        
+        <div id="canvas">
+
+
+
+
+
+
+
+
+
+    
+    <div
+        
+        class="bea-portal-body-header"
+        
+    >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<META name="DCS.dcsaut" content="cityofalexgs01"/>
+
+<div id="sdc-commodity" style="display:none;">NA</div>
+
+<!-- BEGIN Data Collection Server TAG -->
+<SCRIPT LANGUAGE="Javascript"><!--
+gVersion="1.0";
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript1.1"><!--
+gVersion="1.1";
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript1.2"><!--
+gVersion="1.2";
+var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript1.3"><!--
+gVersion="1.3";
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript1.4"><!--
+gVersion="1.4";
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript1.5"><!--
+gVersion="1.5";
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="JavaScript">
+    
+
+var page = "", error = "", conf = "", title = "", tab = "", commodity = "NA", application = "Other";           
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+
+var gDomain="statse.webtrendslive.com";
+var gDcsId="dcs6oik2e64xo2pnf5rfmb9ec_3l9o";
+// Add customizations here
+//WT.sp="@@SPLITVALUE@@";
+
+function ie_getElementsByTagName(str) {
+ if (str=="*")
+  return document.all
+ else
+  return document.all.tags(str)
+}
+
+if (document.all)
+ document.getElementsByTagName = ie_getElementsByTagName
+
+function startSDC(){  
+  var countPage = 0, countErr = 0, countConf = 0;
+  var allTags = document.getElementsByTagName("*");
+    var dcs = [ ["My Profile", "My Account", "Work Request", "Work Management", 
+              "eBuilder","Jurisdiction", "Military", "Group Administration", "Key Customer", "Agency Web Access" ],
+              ["dcsaewroluz5bds22qbh1827u_3p2o", "dcstpufxouz5bd0t7u5d7427u_3w4z", 
+              "dcs5o6kyquz5bd3r0t9e2a87u_2d7z", "dcs5o6kyquz5bd3r0t9e2a87u_2d7z", 
+              "dcsub6qdcvz5bdjvqcnwqd97u_4b9h", "dcsl8lburuz5bdn08io1jgs1y_7v7w",
+              "dcsqjk3mevz5bdjl5f7lghs1y_4v5j", "dcstjggp6wz5bdvoxmmsxb97u_8u9v",
+              "dcsmp0209vz5bdnoqo800puwt_2d5k", "dcsqtmn78vz5bdqqrgvn2pfd6_2o4w"] ];
+  
+  for (var x = 0; x < allTags.length; x++){
+    var allTagClass = allTags[x].className;
+    var allTagChildren = allTags[x].childNodes;    
+    
+    if (allTagClass=="bea-portal-book-primary-menu-single-item-active"){
+      for (var y = 0; y < allTagChildren.length; y++){
+        if(allTagChildren[y].nodeName=="SPAN"){
+          var spanChildren = allTagChildren[y].childNodes;
+          for(var z = 0; z < spanChildren.length; z++){
+            var pageNode = spanChildren[z].nodeValue;
+            if((pageNode != null) && (pageNode.indexOf("\240") == -1) && (pageNode != " ")){
+              tab = pageNode;
+              
+              // Add DCSIDs for each tab in portal navigation. 
+              for ( var y = 0; y < dcs[0].length; y++ ) {
+                if (tab == dcs[0][y]) {
+                  gDcsId = dcs[1][y];
+                  if (tab == "My Account"){
+                    commodity = document.getElementById("commodity_gas");
+                    if (commodity !=null) {
+                    	commodity = "G";
+                      	gDcsId = "dcsfd64txvz5bdrdae62f767u_2d2c";  
+                    } else {
+                    	commodity = "E";
+                    }
+                  } else if(tab == "Key Customer"){
+                	application = "KCS";
+              	  }
+                }                  
+              }           
+            }           
+          }
+        }
+      }
+    }
+    else if(allTagClass=="bea-portal-book-primary-menu-single-item"){
+      for (var y = 0; y < allTagChildren.length; y++){
+        if(allTagChildren[y].nodeName=="A"){
+          var aChildren = allTagChildren[y].childNodes;
+          for(var z = 0; z < aChildren.length; z++){
+            var pageNode = aChildren[z].nodeValue;
+            if((pageNode != null) && (pageNode.indexOf("\240") == -1) && (pageNode != " ")){
+              if(pageNode == "My Account"){
+                application = "CSS";
+              }
+              else if(pageNode == "eBuilder"){
+                application = "eBuilder";
+              }
+            }
+          }
+        }
+      }      
+    }    
+    else if((allTagClass=="portlet-section-header") || (allTagClass=="bodyTitle") || (allTagClass=="PageHeader") || (allTags[x].nodeName=="H1")){
+      for (var y = 0; y < allTagChildren.length; y++){      
+        var pageNode = allTagChildren[y].nodeValue;
+        if((pageNode != null) && (pageNode.indexOf("\240") == -1) && (pageNode != " ")){
+          if (countPage < 1)
+            page += pageNode;  
+          countPage++;
+          
+          //only grab the hidden sub heading text on this pages
+          if (pageNode.indexOf("Turn On Confirmation") != -1 ||
+          	  pageNode.indexOf("Turn Off Confirmation") != -1 ||
+          	  pageNode.indexOf("Transfer Confirmation") != -1 ||
+          	  pageNode.indexOf("Confirm Final Bill Mailing Address") != -1)
+          {
+          		var subHeading = document.getElementById("subHeading");
+	            if (subHeading != null){
+	              page = subHeading.innerHTML;
+	            }
+          } else {
+	          if (pageNode.indexOf("View Service Request") != -1 ||
+	             pageNode.indexOf("Start Service") != -1 ||
+	             pageNode.indexOf("Stop Service") != -1 ||  
+	          	 pageNode.indexOf("Transfer Service") != -1){ 
+	            var subHeading = document.getElementById("subHeading");
+	            if (subHeading != null){
+	              page = page + " " + trim(subHeading.innerHTML);
+	            }
+	          }
+          
+          }
+          
+          
+        }
+      }
+    } 
+    else if(allTagClass=="portlet-msg-error"){
+      if (countErr < 1)
+        error += "  -  ERROR";  
+        
+      countErr++;         
+    }
+    else if(allTagClass=="portlet-msg-success"){
+      if (countConf < 1)          
+        conf += "  -  SUCCESS";
+      countConf++;         
+    }         
+  }
+  
+  if (countPage == 0)
+    page = "Page Title Not Available";  
+  
+  title = page + error + conf;
+  dcsVar();
+  dcsMeta();
+  dcsTag();
+}
+
+function dcsVar(){
+	var dCurrent=new Date();
+	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
+	if (WT.tz==0){
+		WT.tz="0";
+	}
+	WT.bh=dCurrent.getHours();
+	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+	if (typeof(screen)=="object"){
+		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
+		WT.sr=screen.width+"x"+screen.height;
+	}
+	if (typeof(navigator.javaEnabled())=="boolean"){
+		WT.jo=navigator.javaEnabled()?"Yes":"No";
+	}
+  
+  WT.ap=application;
+	
+  WT.ti=title;
+        
+	WT.js="Yes";
+    
+	if (typeof(gVersion)!="undefined"){
+		WT.jv=gVersion;
+	}
+	DCS.dcsdat=dCurrent.getTime();
+	DCS.dcssip=window.location.hostname;
+	DCS.dcsuri=window.location.pathname;
+	if (window.location.search){
+		DCS.dcsqry=window.location.search;
+	}
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+			DCS.dcsref=window.document.referrer;
+		}
+	}
+}
+
+function A(N,V){
+	return "&"+N+"="+dcsEscape(V);
+}
+
+function dcsEscape(S){
+	if (typeof(RE)!="undefined"){
+		var retStr = new String(S);
+		for (R in RE){
+			retStr = retStr.replace(RE[R],R);
+		}
+		return retStr;
+	}
+	else{
+		return escape(S);
+	}
+}
+
+function dcsCreateImage(dcsSrc){
+	if (document.images){
+		gImages[gIndex]=new Image;
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
+	}
+	else{
+		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+	}
+}
+
+function dcsMeta(){
+	var myDocumentElements;
+	if (document.all){
+		myDocumentElements=document.all.tags("meta");
+	}
+	else if (document.documentElement){
+		myDocumentElements=document.getElementsByTagName("meta");
+	}
+	if (typeof(myDocumentElements)!="undefined"){
+		for (var i=1;i<=myDocumentElements.length;i++){
+			myMeta=myDocumentElements.item(i-1);
+			if (myMeta.name){
+				if (myMeta.name.indexOf('WT.')==0){
+					WT[myMeta.name.substring(3)]=myMeta.content;
+				}
+				else if (myMeta.name.indexOf('DCSext.')==0){
+					DCSext[myMeta.name.substring(7)]=myMeta.content;
+				}
+				else if (myMeta.name.indexOf('DCS.')==0){
+					DCS[myMeta.name.substring(4)]=myMeta.content;
+				}
+			}
+		}
+	}
+}
+
+function dcsTag(){
+    var P="https://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
+    
+	for (N in DCS){
+		if (DCS[N]) {
+			P+=A(N,DCS[N]);
+		}
+	}
+	for (N in WT){
+		if (WT[N]) {
+			P+=A("WT."+N,WT[N]);
+		}
+	}
+	for (N in DCSext){
+		if (DCSext[N]) {
+			P+=A(N,DCSext[N]);
+		}
+	}
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	dcsCreateImage(P);
+	
+     //DEBUG
+     //alert("Tab: " + tab + "\n\nTitle: " + title + "\n\nCommodity: " + commodity + "\n\ndcsId" + gDcsId + "\n\nApplication: " + application);
+    
+    
+}
+
+function dcsFunc(func){
+                if (typeof(window[func])=="function"){
+                                window[func]();
+                }
+}
+
+function dcsMultiTrack(){
+	if (arguments.length%2==0){
+		for (var i=0;i<arguments.length;i+=2){
+			if (arguments[i].indexOf('WT.')==0){
+				WT[arguments[i].substring(3)]=arguments[i+1];
+			}
+			else if (arguments[i].indexOf('DCS.')==0){
+				DCS[arguments[i].substring(4)]=arguments[i+1];
+			}
+			else if (arguments[i].indexOf('DCSext.')==0){
+				DCSext[arguments[i].substring(7)]=arguments[i+1];
+			}
+		}
+		var dCurrent=new Date();
+		DCS.dcsdat=dCurrent.getTime();
+		dcsFunc("dcsCookie");
+		dcsTag();
+	}
+}
+
+function trim(stringToTrim) {
+	return stringToTrim.replace(/^\s+|\s+$/g,"");
+}
+
+function pausecomp(ms) {
+	ms += new Date().getTime();
+	while (new Date() < ms){}
+} 
+
+//-->
+</SCRIPT>
+
+<NOSCRIPT>
+<img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="https://statse.webtrendslive.com/dcstpufxouz5bd0t7u5d7427u_3w4z/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=www.my.dom.com"/>
+</NOSCRIPT>
+
+<!-- END OF Data Collection Server TAG -->
+
+
+<div id="band-site-identity">
+    
+         <div id="ldc-general-navigation" style="">
+    
+    
+        <ul>
+            <li>Welcome, cityofalexgs01</li>
+            <li><a href="javascript:void(0);" id="signOutLink" style="cursor: pointer">Sign Out</a></li>
+        </ul>        
+    </div> 
+    <div id="iframe-placeholder" style="position:relative; width:698px; background-color:#fff; z-index:1100; display: none">
+		<iframe id="iframe-dvp" style="position:absolute; top:0;width:530px;height:495px;margin-left:175px;padding:10px; background:#fff" frameborder="0" name="iframe-dvp">
+			<p>Your browser does not support iframes.</p>
+		</iframe>
+	</div>
+	<script type="text/javascript" src="/externalPortalWebApp/framework/skins/domdotcom/js/signout.js"></script>
+    <a href="http://www.dom.com">
+    <img src="/externalPortalWebApp/images/corporate-logo.jpg" alt="Virginia Power" width="187" height="83" border="0" id="ldc-logo" /></a>
+    
+<form name="frmSearch" method="get" action="http://search.dom.com/search?">
+	<input type="hidden" name="sort" value="date%3AD%3AL%3Ad1"/>
+	<input type="hidden" name="output" value="xml_no_dtd"/>
+	<input type="hidden" name="ie" value="UTF-8"/>
+	<input type="hidden" name="oe" value="UTF-8"/>
+	<input type="hidden" name="client" value="default_frontend"/> 
+	<input type="hidden" name="proxystylesheet" value="default_frontend"/>
+	<input type="hidden" name="site" value="default_collection"/>
+
+    <input type="text" id="search-text" name="q" />
+    <input type="image" src="/externalPortalWebApp/images/search_button.gif" align="middle"/>
+</form>
+<form name="logoutForm" action="/externalPortalWebApp/logout.jsp" id="logoutForm"></form>
+</div>
+<div id="band-primary-navigation">
+</div>
+<div id='survey-box' style="background-color:#000;opacity: .25; filter: alpha(opacity=25);background: repeat #000;width:100%;height:100%;z-index:1000;position:fixed;top:0px; left:0px; right:0px;display:none;"></div>
+
+
+
+
+
+
+
+    </div>
+
+    
+
+
+
+
+
+
+
+<div id="band-content">
+<!-- Begin Book Content -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="band-portal-navigation">
+    <ul
+        
+        class="bea-portal-book-primary-menu-single"
+        
+        >
+        
+                <li class="bea-portal-book-primary-menu-single-item">
+                    <a href="https://my.dom.com:443/externalPortalWebApp/mydom/mydom.portal?_nfpb=true&_pageLabel=myprofile">My Profile</a>
+                </li>
+                
+                <li class="bea-portal-book-primary-menu-single-item">
+                    <a href="https://my.dom.com:443/externalPortalWebApp/mydom/mydom.portal?_nfpb=true&_pageLabel=group_administration">Group Administration</a>
+                </li>
+                
+                <li class="bea-portal-book-primary-menu-single-item-active">
+                    <span>Key Customer</span>
+                </li>
+                
+            </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div> 
+
+
+
+
+
+
+
+
+        
+        <div
+            class="bea-portal-book-primary-content"
+            
+        >
+
+
+
+
+
+
+
+
+<div>
+<!-- Begin Book Content -->
+
+
+        
+        <div
+            class="bea-portal-book-content"
+            
+        >
+
+
+
+
+
+
+
+
+
+    
+    <div
+        
+        class="bea-portal-book-page"
+        
+    >
+
+
+
+
+
+
+
+
+    <table
+        
+        class="layout-custom"
+        cellspacing="0" cellpadding="0"
+    >
+    
+    
+        <tr>
+            <td rowspan="3" width="70%" valign="top" class="layout-placeholder-container">
+                    
+
+<div
+        
+        class="bea-portal-layout-placeholder"
+        
+>
+
+
+
+
+
+
+
+
+    
+    <table
+        
+        class="bea-portal-layout-flow"
+        
+        cellspacing="0"
+    >
+        <tr>
+    
+            
+            <td class="bea-portal-layout-placeholder-container"  id='portletChild0'
+                width="100%"
+            >
+
+<div
+        
+        class="bea-portal-layout-placeholder"
+        
+>
+
+
+
+
+
+
+
+    
+    <div
+        
+        class="bea-portal-window"
+        
+        width="100%"
+    >
+        
+        
+        <div
+            class="bea-portal-window-content"
+            
+        >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="javascript">
+<!--
+    function kcs_reports_3_openPrinterFriendlyView(url) {
+        var reportWin = window.open(url,"reportWin","width=725,height=520,location=no,menubar=no,toolbar=no,scrollbars=yes,top=0,left=0,screenX=0,screenY=0", false);
+        reportWin.focus();
+        return true;
+    }
+
+    function kcs_reports_3_moveItem(formName, srcName, destName) {
+        var theSelFrom = document.forms[getNetuiTagName(formName, this)].elements[getNetuiTagName(srcName, this)];
+        var theSelTo = document.forms[getNetuiTagName(formName, this)].elements[getNetuiTagName(destName, this)];
+        var selLength = theSelFrom.length;
+		var selectedText = new Array();
+		var selectedValues = new Array();
+		var selectedCount = 0;
+
+		var ii;
+
+		// Find the selected Options in reverse order
+		// and delete them from the 'from' Select.
+		for(ii=selLength-1; ii>=0; ii--) {
+			if(theSelFrom.options[ii].selected) {
+				selectedText[selectedCount] = theSelFrom.options[ii].text;
+				selectedValues[selectedCount] = theSelFrom.options[ii].value;
+				if (theSelFrom.length > 0) {
+					theSelFrom.options[ii] = null;
+				}
+				selectedCount++;
+			}
+		}
+
+		// Add the selected text/values in reverse order.
+		// This will add the Options to the 'to' Select
+		// in the same order as they were in the 'from' Select.
+		for(ii=selectedCount-1; ii>=0; ii--) {
+			var newOpt = new Option(selectedText[ii], selectedValues[ii]);
+			theSelTo.options[theSelTo.length] = newOpt;
+		}
+    }
+    
+    function kcs_submitSelectedList(formName, selName){
+        var sel = document.forms[getNetuiTagName(formName, this)].elements[getNetuiTagName(selName, this)];
+        for(var ii=0; ii<sel.length; ii++) {
+                sel.options[ii].selected = true;
+        }
+    }
+
+    var kcs_contextPath = '/externalPortalWebApp';
+// -->
+</script>
+
+
+<link rel="stylesheet" href="/externalPortalWebApp/framework/skins/domdotcom/css/master.css" type="text/css">
+<link href="/externalPortalWebApp/framework/skins/domdotcom/css/portlet.css" rel="stylesheet" type="text/css"/>
+<link href="/externalPortalWebApp/framework/skins/domdotcom/css/body.css" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" type="text/css" href="print.css" media="print"/>
+
+		
+        
+        
+        
+
+        
+
+
+
+
+<span class="bodyTitle"><a href="https://my.dom.com:443/externalPortalWebApp/mydom/mydom.portal?_nfpb=true&_windowLabel=kcs_reports_3&kcs_reports_3_actionOverride=%2Fkcs%2FAccountMaintenance%2FReports%2Fbegin" class="bodyTitle">Reports</a></span>
+
+
+
+
+        
+
+
+
+<link rel="stylesheet" href="/externalPortalWebApp/framework/skins/domdotcom/css/master.css" type="text/css" />
+<link rel="stylesheet" href="/externalPortalWebApp/framework/skins/domdotcom/css/portlet.css" type="text/css">
+
+
+
+
+<br/>
+<table width="100%">
+    <tr>
+        <td class="portlet-section-header" align="left">Monthly Billing Summary Report</td>
+        <td class="bodyText" align="right">
+            05/12/2014 - 06/11/2014
+        </td>
+    </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">    
+    <tr valign="top">
+        <td height="10" colspan="3"></td>
+    </tr>
+    <tr valign="top">
+        <td height="1" colspan="3" style="background-image: url(/portalWebApp/framework/skins/domdotcom/images/vert_dot.gif); background-repeat: repeat-x;">
+        </td>
+    </tr>
+    <tr valign="top">
+        <td height="10" colspan="3"></td>
+    </tr>
+	<tr>
+		<td class="componentHeader2" colspan="3">
+			Dominion Virginia Power
+				
+			
+			
+			
+			
+		</td>       
+	</tr>
+    <tr valign="top">
+        <td height="10" colspan="3"></td>
+    </tr>
+    <tr valign="top">
+        <td class="componentHeader1" width="125">Account Name(s):</td>
+        
+        <td class="bodyText">
+            <span>CITY OF ALEXANDRIA</span><br />
+			
+        </td>
+    </tr>
+    <tr valign="top">
+        <td colspan="3">&nbsp;</td>
+    </tr>
+	<tr valign="top">
+        <td class="componentHeader1">Account Number:</td>
+        
+        <td class="bodyText">
+            <span>8066796254</span>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td class="componentHeader1">Service Address:</td>
+        
+        <td class="bodyText">
+            5005 DUKE ST<br/>
+            ALEXANDRIA, 
+            VA 
+            22304
+        </td>
+    </tr>
+    <tr valign="top">
+        <td height="10" colspan="3"></td>
+    </tr>
+    <tr valign="top">
+        <td height="1" colspan="3" style="background-image: url(/portalWebApp/framework/skins/domdotcom/images/vert_dot.gif); background-repeat: repeat-x;"></td>
+    </tr>
+    <tr valign="top">
+        <td height="10" colspan="3"></td>
+    </tr>
+</table>
+<table width="600" cellspacing="0">
+    <tr>
+        <td class="bodyText" width="300">
+            <strong>Rate Schedule:</strong> Schedule 130
+        </td>
+        <td class="bodyText" width="300">
+            <strong>Start Date & Time:</strong> 05/12/2014 01:00:00<br/>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td height="10" colspan="3"></td>
+    </tr>
+    <tr>
+        <td class="bodyText">
+            <strong>Number of Days:</strong> 30
+        </td>
+       <td class="bodyText">
+            <strong>Stop Date & Time:</strong> 06/11/2014 00:59:59
+        </td>
+    </tr>
+    <tr valign="top">
+        <td height="10" colspan="3"></td>
+    </tr>
+    <tr>
+       <td class="bodyText" width="50%">
+            <strong>Recorder ID:</strong> 02124272
+       </td>
+       <td class="bodyText">
+       </td>
+    </tr>
+</table>
+<br/>
+
+
+        <br/>
+        
+
+        
+        	<span class="componentHeader2">Determination of On and Off Peak Hours</span><br/><br/>
+        	Please refer to the on-peak and off-peak hours listed in your rate schedule<br/>
+         
+        
+        <br/>
+        <table class="bodyText" border="0" cellpadding="0" cellspacing="0" width="600">
+            <tr valign="top">
+                <td class="bodyText" width="200">
+                    <b>Total KWh: </b>
+                    <span>91175</span>
+                </td>
+                <td class="bodyText" width="200">
+                    <b>Total On-Peak kWh: </b>
+                    <span>41678</span>
+                </td>
+                <td class="bodyText" width="200">
+                    <b>Total Off-Peak kWh: </b>
+                    <span>49497</span>
+                </td>
+            </tr>
+        </table>
+        <br/>
+
+        <span class="componentHeader2">Highest On-Peak kW Demands for the Billing Period</span> 
+
+        
+                <table class="bodyText" border="0">
+                    <tr valign="top">
+                        <td align="left"><b>Date:</b></td>
+                        <td align="center"><b>On-Peak kW:</b></td>
+                        <td align="right"><b>Time:</b></td>
+                    </tr>
+            
+                <tr valign="top">
+                    <td align="left" width="100"><span>06/10/2014</span></td>
+                    <td align="right" width="100"><span>248.8</span></td>
+                    <td align="right" width="100"><span>2030</span></td>
+                </tr>
+            
+                <tr valign="top">
+                    <td align="left" width="100"><span>06/10/2014</span></td>
+                    <td align="right" width="100"><span>248.4</span></td>
+                    <td align="right" width="100"><span>2130</span></td>
+                </tr>
+            
+                <tr valign="top">
+                    <td align="left" width="100"><span>06/10/2014</span></td>
+                    <td align="right" width="100"><span>241.2</span></td>
+                    <td align="right" width="100"><span>2100</span></td>
+                </tr>
+            
+                <tr valign="top">
+                    <td align="left" width="100"><span>06/10/2014</span></td>
+                    <td align="right" width="100"><span>238.9</span></td>
+                    <td align="right" width="100"><span>2000</span></td>
+                </tr>
+            
+                <tr valign="top">
+                    <td align="left" width="100"><span>05/13/2014</span></td>
+                    <td align="right" width="100"><span>237.1</span></td>
+                    <td align="right" width="100"><span>1700</span></td>
+                </tr>
+             </table><br/> 
+        
+        <br/>
+
+        <span class="componentHeader2">Highest Off-Peak kW Demands for the Billing Period</span> 
+
+        
+                <table class="bodyText" border="0">
+                    <tr valign="top">
+                        <td align="left"><b>Date:</b></td>
+                        <td align="center"><b>Off-Peak kW:</b></td>
+                        <td align="right"><b>Time:</b></td>
+                    </tr>
+            
+                <tr valign="top">
+                    <td align="left" width="100"><span>05/24/2014</span></td>
+                    <td align="right" width="100"><span>281.7</span></td>
+                    <td align="right" width="100"><span>1400</span></td>
+                </tr>
+            
+                <tr valign="top">
+                    <td align="left" width="100"><span>05/24/2014</span></td>
+                    <td align="right" width="100"><span>265.9</span></td>
+                    <td align="right" width="100"><span>1430</span></td>
+                </tr>
+            
+                <tr valign="top">
+                    <td align="left" width="100"><span>05/24/2014</span></td>
+                    <td align="right" width="100"><span>263</span></td>
+                    <td align="right" width="100"><span>1530</span></td>
+                </tr>
+            
+                <tr valign="top">
+                    <td align="left" width="100"><span>05/24/2014</span></td>
+                    <td align="right" width="100"><span>261.4</span></td>
+                    <td align="right" width="100"><span>1600</span></td>
+                </tr>
+            
+                <tr valign="top">
+                    <td align="left" width="100"><span>05/24/2014</span></td>
+                    <td align="right" width="100"><span>258.8</span></td>
+                    <td align="right" width="100"><span>1500</span></td>
+                </tr>
+             </table><br/> 
+
+        <br/><br/>
+
+        
+        
+        
+        
+<div style=”page-break-before:auto”>        
+        <span class="componentHeader2">CHANNEL/METER VERIFICATION</span> 
+        
+        <br/><br/>
+
+        
+                <table class="bodyText" border="0">
+                    <tr valign="top">
+                        <td colspan="5" align="left"><b>Channel Information</b></td>
+                    </tr>
+                    <tr valign="top">
+                        <td align="right"><b>Channel #:</b></td>
+                        <td align="right"><b>Channel</b></td>
+                        <td align="right"><b>Pulse</b></td>
+                        <td align="right"><b>Channel</b></td>
+                        <td align="right"><b>UOM:</b></td>
+                    </tr>
+                    <tr valign="top">
+                        <td align="right"><b></b></td>
+                        <td align="right"><b>Pulses:</b></td>
+                        <td align="right"><b>Multiplier:</b></td>
+                        <td align="right"><b>Total:</b></td>
+                        <td align="right"><b></b></td>
+                    </tr>
+            
+                <tr valign="top">
+                    <td align="right" width="96"><span>03</span></td>
+                    <td align="right" width="96"><span>1013056</span></td>
+                    <td align="right" width="96"><span>0.09</span></td>
+                    <td align="right" width="96"><span>91175</span></td>
+                    <td align="right" width="96"><span>KWH</span></td>
+                </tr>
+             </table><br/> 
+
+        <br/>
+</div>
+<div style=”page-break-before:auto”>        
+        <table class="bodyText" border="0">
+            <tr valign="top">
+                <td align="left" colspan="8"><b>Meter Information</b></td>
+            </tr>
+            <tr valign="top">
+                <td align="right"><b>Meter #:</b></td>
+                <td align="right"><b>Start</b></td>
+                <td align="right"><b>Stop</b></td>
+                <td align="right"><b>Difference:</b></td>
+                <td align="right"><b>Meter</b></td>
+                <td align="right"><b>Meter</b></td>
+                <td align="right"><b>UOM:</b></td>
+            </tr>
+            <tr valign="top">
+                <td align="right"><b></b></td>
+                <td align="right"><b>Reading:</b></td>
+                <td align="right"><b>Reading:</b></td>
+                <td align="right"><b></b></td>
+                <td align="right"><b>Multiplier:</b></td>
+                <td align="right"><b>Total:</b></td>
+                <td align="right"><b></b></td>
+            </tr>
+            <tr valign="top">
+                <td align="right" width="110"><span>0258217587</span></td>
+                <td align="right" width="110"><span>1277</span></td>
+                <td align="right" width="110"><span>1581</span></td>
+                <td align="right" width="110"><span>304.0</span></td>
+                <td align="right" width="110"><span>300</span></td>
+                <td align="right" width="110"><span>91200</span></td>
+                <td align="right" width="100">KWH</td>
+            </tr>
+            <tr valign="top">
+                <td align="right" width="110"><span>0258217587</span></td>
+                <td align="right" width="110"><span></span></td>
+                <td align="right" width="110"><span></span></td>
+                <td align="right" width="110"><span>--</span></td>
+                <td align="right" width="110"><span></span></td>
+                <td align="right" width="110"><span></span></td>
+                <td align="right" width="100">KQH</td>
+            </tr>
+        </table>
+        
+        <br/><br/>
+		<table class="bodyText">
+			<tr>
+				<td><b>Note:</b></td><td>&nbsp;</td><td><b>To convert kW readings to kWh divide by 2.</b></td>
+			</tr>
+			<tr>
+				<td></td><td></td><td><b>A value of zero may indicate that this measurement is not recorded under the rate plan.</b></td>
+			</tr>
+		</table>
+        <br/>
+
+        <p class="bodyText"> * Billing adjustments, meter exchanges and rounding in calculations may cause a discrepancy
+        in Total kWh, Total On-Peak and Total Off-Peak kWh figures displayed on this summary report.
+        </p>
+
+		
+		<p align="center">
+		    <button onClick="kcs_reports_3_openPrinterFriendlyView('https://my.dom.com:443/externalPortalWebApp/kcs/AccountMaintenance/Reports/ReportsController.portlet?_nfpb=true&_windowLabel=kcs_reports_3&printView=1&reportType=idr&key=8c717b9d18a819384769ced0a707eb1b7ec8590352e33e42287e0b51e2c0776a0cf9d4e505fd675c61a2050b407871d7be5e9fe04b6600a153dfbe8a5ece0f4e9fb6bdacff7743a012694d498c3bdf4c5ccd9cdcfb48d12075a08dcd0026f8d566c025b84ed2b4357a94f451009d5fe74b738ad37e3b70f77eeb67df258dfeb98a358cbef363e1ed9f8e3b6906bc5dcf4a6d71ca4d6307dd6ec9314ad0f97c4379deb7767eed72a84d1f01c302a03638&_portlet.lafUniqueId=domdotcomLookAndFeel&_portlet.portalUrl=%2FexternalPortalWebApp%2Fmydom%2Fmydom.portal&_portlet.portalId=mydom&_portlet.contentType=text%2Fhtml%3B+charset%3DUTF-8&_portlet.asyncMode=compat_9_2&_portlet.title=Reports')" >Get Printer Friendly Version</button>
+		</p>
+		<p>
+		<form action="https://my.dom.com:443/externalPortalWebApp/mydom/mydom.portal?_nfpb=true&_windowLabel=kcs_reports_3&kcs_reports_3_actionOverride=%2Fkcs%2FAccountMaintenance%2FReports%2FbackToMain" method="post">
+		    <input type="submit" value="Back">
+		</form>
+		</p>
+		
+</div>
+        
+
+
+
+
+
+
+        </div>
+        
+    </div>
+    
+
+
+
+</div>
+</td>
+            
+    
+        </tr>
+    </table>
+    
+
+
+
+<script LANGUAGE="JavaScript">
+<!--
+    
+    // hide empty portlets 
+    function hideEmptyPortlets(visible) {
+    
+        var maxChildPortlets = 40; //this may need to change if we exceed this many portlets on a page
+        for(i = 0; i < maxChildPortlets; i++){
+
+            var child = document.getElementById("portletChild" + i);
+            if (child != null) {
+                if (child.innerText != null && child.innerText.length == 0) {
+                    child.style.display = "none";
+                } 
+            } else {
+                break;
+            }
+        }
+    } 
+     
+    hideEmptyPortlets();  
+    
+    // -->
+</script> 
+
+
+
+
+
+
+
+
+
+
+
+
+<script LANGUAGE="JavaScript">
+<!--
+    
+    // hide empty portlets 
+    function hideEmptyPortlets(visible) {
+    
+        var maxChildPortlets = 40; //this may need to change if we exceed this many portlets on a page
+        for(i = 0; i < maxChildPortlets; i++){
+
+            var child = document.getElementById("portletChild" + i);
+            if (child != null) {
+                if (child.innerText != null && child.innerText.length == 0) {
+                    child.style.display = "none";
+                } 
+            } else {
+                break;
+            }
+        }
+    } 
+     
+    hideEmptyPortlets();  
+    
+    // -->
+</script> 
+
+
+
+</div>
+
+            </td>
+        </tr>
+     
+        <tr>
+            
+            <td class="noprint" width="3" background="/externalPortalWebApp/framework/skins/domdotcom/images/vert_dot.gif" valign="top" style="background-repeat: repeat-y;">
+                <img src="/externalPortalWebApp/framework/skins/domdotcom/images/spacer.gif" width="3" height="10" />
+            </td>
+    
+            <td width="30%" valign="top" class="layout-placeholder-container noprint">
+                    
+
+<div
+        
+        class="bea-portal-layout-placeholder"
+        
+>
+
+
+
+
+
+
+
+
+    
+    <table
+        
+        class="bea-portal-layout-flow"
+        
+        cellspacing="0"
+    >
+        <tr>
+    
+            
+            <td class="bea-portal-layout-placeholder-container"  id='portletChild0'
+                width="100%"
+            >
+
+<div
+        
+        class="bea-portal-layout-placeholder"
+        
+>
+
+
+
+
+
+
+
+    
+    <div
+        
+        class="bea-portal-window"
+        
+        width="100%"
+    >
+        
+        
+        <div
+            class="bea-portal-window-content"
+            
+        >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rhNav">
+
+<table align="left" class="bodyText">
+    <tr>
+        <td class="componentHeader1" align="left" height="8"></td>
+    </tr>
+    <tr>
+        <td class="componentHeader1" align="left">Account Information</td>
+    </tr>
+    <tr>
+        <td align="left">
+            
+            
+            
+                <a href="https://my.dom.com:443/externalPortalWebApp/mydom/mydom.portal?_nfpb=true&_pageLabel=kcs_welcome">Welcome</a>
+            
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            
+            
+                <a href="https://my.dom.com:443/externalPortalWebApp/mydom/mydom.portal?_nfpb=true&_pageLabel=kcs_viewBill">View Bill</a>
+            
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            
+                Reports
+            
+            
+        </td>
+    </tr>    
+
+    
+    <tr><td>&nbsp;</td></tr>
+    <tr>
+        <td class="componentHeader1" align="left">Manage</td>
+    </tr>
+    
+    
+        
+        
+        
+        
+        <tr>
+            <td align="left">
+                <a href="https://my.dom.com:443/externalPortalWebApp/mydom/mydom.portal?_nfpb=true&_pageLabel=group_administration">Users</a>
+            </td>
+        </tr>
+        
+        <tr>
+            <td align="left">
+                
+                
+                    <a href="https://my.dom.com:443/externalPortalWebApp/mydom/mydom.portal?_nfpb=true&_pageLabel=kcs_manageAccountGroups">Account Groups</a>
+                
+            </td>
+        </tr>    
+    
+    <tr>
+        <td align="left">
+            
+            
+                <a href="https://my.dom.com:443/externalPortalWebApp/mydom/mydom.portal?_nfpb=true&_pageLabel=kcs_manageAccountNames">Account Names</a>
+            
+        </td>
+    </tr>
+
+    <tr><td>&nbsp;</td></tr>
+    <tr>
+        <td class="componentHeader1" align="left">Additional Information</td>
+    </tr>
+    <tr>
+        <td align="left">
+        
+	        
+	            <a href="http://www.dom.com/dominion-virginia-power/customer-service/rates-and-tariffs/business-rates-and-tariffs.jsp" target="_blank">Rates</a>
+	        
+        	
+        
+        </td>
+    </tr>    
+    <tr>
+        <td align="left">
+            
+            
+                <a href="https://my.dom.com:443/externalPortalWebApp/mydom/mydom.portal?_nfpb=true&_pageLabel=kcs_glossary">Glossary</a>
+            
+        </td>
+    </tr>    
+
+    <tr><td>&nbsp;</td></tr>
+    <tr>
+        <td class="componentHeader1" align="left">Additional Links</td>
+    </tr>
+    <tr>
+        <td align="left">
+            <a href="http://www.dom.mediaroom.com/index.php?s=43" target="_blank">Dominion News</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <a href="http://phx.corporate-ir.net/phoenix.zhtml?c=110481&p=irol-stockquote" target="_blank">Dominion Stock Quote</a>
+        </td>
+    </tr>
+     <tr>
+        <td align="left">
+        
+	        
+	            <a href="http://www.dom.com/dominion-virginia-power/customer-service/energy-conservation/ec-programs.jsp" target="_blank">Energy Conservation<sup><font color="red">New!</font></sup></a>
+	        
+        	
+        
+        </td>
+    </tr>    
+    <tr>
+        <td align="left">
+            
+            
+                <a href="https://my.dom.com:443/externalPortalWebApp/mydom/mydom.portal?_nfpb=true&_pageLabel=kcs_energyInformation">Energy Information Links</a>
+            
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <a href="http://www.energystar.gov/" target="_blank">ENERGY STAR Service Providers</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+            <a href="http://www.dom.com/investors/index.jsp" target="_blank">Investor Relations</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+	        
+		        
+	            	<a href="http://www.dom.com/dominion-virginia-power/electricity-reregulation-in-virginia.jsp" target="_blank">Electric Reregulation in Virginia</a>
+	        	
+	        
+        </td>
+    </tr>
+
+    
+    
+    <tr><td>&nbsp;</td></tr>
+    <tr>
+        <td class="componentHeader1" align="left">Account Manager</td>
+    </tr>
+    <tr>
+        <td align="left">
+            <a href="mailto:DALE.BOWMAN@DOM.COM">Contact your Account Manager
+            <br/>
+            <span>Dale Bowman</span></a>
+        </td>
+    </tr>
+    
+    
+    <tr>
+        <td align="center">
+            <img src="/externalPortalWebApp/kcs/navigation/getAccountManagerImage.do?am=dalebowman" />
+        </td>
+    </tr>
+    
+    
+
+</table>
+
+</div>
+
+
+
+
+
+
+
+        </div>
+        
+    </div>
+    
+
+
+
+</div>
+</td>
+            
+    
+        </tr>
+    </table>
+    
+
+
+
+<script LANGUAGE="JavaScript">
+<!--
+    
+    // hide empty portlets 
+    function hideEmptyPortlets(visible) {
+    
+        var maxChildPortlets = 40; //this may need to change if we exceed this many portlets on a page
+        for(i = 0; i < maxChildPortlets; i++){
+
+            var child = document.getElementById("portletChild" + i);
+            if (child != null) {
+                if (child.innerText != null && child.innerText.length == 0) {
+                    child.style.display = "none";
+                } 
+            } else {
+                break;
+            }
+        }
+    } 
+     
+    hideEmptyPortlets();  
+    
+    // -->
+</script> 
+
+
+
+
+
+
+
+
+
+
+
+
+<script LANGUAGE="JavaScript">
+<!--
+    
+    // hide empty portlets 
+    function hideEmptyPortlets(visible) {
+    
+        var maxChildPortlets = 40; //this may need to change if we exceed this many portlets on a page
+        for(i = 0; i < maxChildPortlets; i++){
+
+            var child = document.getElementById("portletChild" + i);
+            if (child != null) {
+                if (child.innerText != null && child.innerText.length == 0) {
+                    child.style.display = "none";
+                } 
+            } else {
+                break;
+            }
+        }
+    } 
+     
+    hideEmptyPortlets();  
+    
+    // -->
+</script> 
+
+
+
+</div>
+
+            </td>
+     
+         </tr>
+         <tr>
+            <td class="noprint" height="5" colspan="3" valign="top">
+                <img src="/externalPortalWebApp/framework/skins/domdotcom/images/spacer.gif" width="1" height="10" />
+            </td>
+        </tr>
+    </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+
+
+
+
+
+
+
+         </div>
+
+    </div>
+      
+    
+
+
+
+
+
+
+
+
+         </div>
+
+    </div>
+      
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+<div id="band-general-navigation">
+        <ul>
+            <li style="background-image: none;"><a href="http://www.dom.com/webhelp/index.htm" target="_blank">Help</a></li>
+            <li><a href="http://www.dom.com/legal-terms-and-conditions.jsp">Legal Terms and Conditions</a></li>
+            <li><a href="http://www.dom.com/privacy.jsp">Privacy</a></li>
+            <li><a href="http://www.dom.com/para-servirlos.jsp">Para Servirlos</a></li>
+            <li><a href="http://www.dom.com/contact/index.jsp">Contact Us</a></li>
+            <li><a href="http://www.dom.com/diversity/index.jsp" target="_blank">Diversity</a></li>
+        </ul>
+</div>
+<div id="band-copyright">
+Copyright &copy;<span id="copyright-yr">
+<script language="JavaScript">
+<!--
+var d = new Date();
+document.write(d.getFullYear());
+// -->
+</script> 
+</span> Dominion
+</div>
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+        </div>
+        
+    </body>
+    
+
+
+
+
+
+</html>
+
+
+
+
+
+
+
+

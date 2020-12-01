@@ -1,0 +1,45 @@
+Error Report
+------------
+
+Process Date: 10/09/2012 10:16:21
+
+PROCESSING ERRORS
+
+Alexandria-VA Dominion   Invoice #: 101134852920121002   
+    Previous Balance Amount of -1153.69
+
+Alexandria-VA Dominion   Invoice #: 524625750420121002   
+    Previous Balance Amount of -74.41
+
+Alexandria-VA Dominion   Invoice #: 653315140020121002   
+    Previous Balance Amount of -572.63
+
+Alexandria-VA Dominion   Invoice #: 715230846120121002   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of -104.27
+
+Alexandria-VA Dominion   Invoice #: 959638250820121002   
+    Previous Balance Amount of -666.45
+
+Alexandria-VA Dominion   Invoice #: 115632000220121004   Bldg Id:CITY MAINTENANCE YAR
+    Previous Balance Amount of -102.62
+
+Alexandria-VA Dominion   Invoice #: 662636500820121004   
+    Previous Balance Amount of -337.17
+
+Alexandria-VA Dominion   Invoice #: 714633000120121004   Bldg Id:C/O PROPERTY MGMNT
+    Previous Balance Amount of -106.16
+
+Alexandria-VA Dominion   Invoice #: 735263101920121004   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of -81.12
+
+Alexandria-VA Dominion   Invoice #: 185626500220121005   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of -120.21
+
+Alexandria-VA Dominion   Invoice #: 445264296220121005   
+    Previous Balance Amount of -723.21
+
+Alexandria-VA Dominion   Invoice #: 469647500520121005   Bldg Id:GENERAL SERVICES
+    Previous Balance Amount of -688.02
+
+Alexandria-VA Dominion   Invoice #: 723635750020121005   Bldg Id:MAINTENANCE FACILITY
+    Previous Balance Amount of -97.73

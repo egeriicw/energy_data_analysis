@@ -1,0 +1,30 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+11:52 PM,58 F,53 F,84 %,E,3 mph,0 mph,29.92 in,0.0 in,Mostly Cloudy
+12:52 AM,56 F,52 F,87 %,NE,6 mph,0 mph,29.90 in,0.0 in,Mostly Cloudy
+1:52 AM,54 F,52 F,93 %,NE,7 mph,0 mph,29.86 in,0.0 in,Mostly Cloudy
+2:52 AM,54 F,52 F,93 %,NE,7 mph,0 mph,29.84 in,0.0 in,Mostly Cloudy
+3:52 AM,54 F,51 F,90 %,CALM,0 mph,0 mph,29.82 in,0.0 in,Mostly Cloudy
+4:52 AM,52 F,51 F,97 %,NE,5 mph,0 mph,29.82 in,0.0 in,Mostly Cloudy
+5:52 AM,52 F,50 F,93 %,N,8 mph,0 mph,29.84 in,0.0 in,Mostly Cloudy
+6:52 AM,53 F,51 F,93 %,NE,7 mph,0 mph,29.83 in,0.0 in,Mostly Cloudy
+7:52 AM,56 F,53 F,90 %,CALM,0 mph,0 mph,29.83 in,0.0 in,Mostly Cloudy
+8:52 AM,64 F,58 F,80 %,SSW,9 mph,0 mph,29.83 in,0.0 in,Mostly Cloudy
+9:26 AM,72 F,61 F,69 %,SSW,20 mph,25 mph,29.84 in,0.0 in,Mostly Cloudy
+9:52 AM,73 F,61 F,66 %,SSW,20 mph,0 mph,29.83 in,0.0 in,Mostly Cloudy
+10:10 AM,75 F,61 F,61 %,W,12 mph,18 mph,29.86 in,0.0 in,Mostly Cloudy
+10:52 AM,72 F,61 F,68 %,ENE,3 mph,0 mph,29.85 in,0.0 in,Mostly Cloudy
+11:52 AM,74 F,61 F,64 %,S,3 mph,0 mph,29.83 in,0.0 in,Mostly Cloudy
+12:32 PM,72 F,57 F,60 %,S,15 mph,0 mph,29.81 in,0.0 in,Mostly Cloudy
+12:52 PM,76 F,58 F,54 %,S,13 mph,22 mph,29.81 in,0.0 in,Mostly Cloudy
+1:09 PM,79 F,57 F,47 %,S,16 mph,30 mph,29.80 in,0.0 in,Mostly Cloudy
+2:52 PM,82 F,56 F,41 %,SW,20 mph,30 mph,29.78 in,0.0 in,Mostly Cloudy
+3:52 PM,84 F,54 F,35 %,W,15 mph,23 mph,29.76 in,0.0 in,Cloudy
+4:52 PM,84 F,54 F,35 %,WSW,17 mph,28 mph,29.76 in,0.0 in,Cloudy
+5:23 PM,84 F,54 F,35 %,W,15 mph,23 mph,29.77 in,0.0 in,Cloudy
+5:52 PM,85 F,49 F,29 %,WNW,23 mph,31 mph,29.78 in,0.0 in,Mostly Cloudy / Windy
+6:06 PM,82 F,54 F,37 %,NNW,17 mph,26 mph,29.79 in,0.0 in,Cloudy
+6:52 PM,82 F,49 F,31 %,WNW,15 mph,26 mph,29.82 in,0.0 in,Mostly Cloudy
+7:52 PM,79 F,47 F,32 %,WNW,10 mph,21 mph,29.85 in,0.0 in,Mostly Cloudy
+8:52 PM,77 F,45 F,32 %,WNW,5 mph,0 mph,29.87 in,0.0 in,Mostly Cloudy
+9:52 PM,75 F,46 F,36 %,NNW,12 mph,22 mph,29.90 in,0.0 in,Mostly Cloudy
+10:52 PM,72 F,46 F,40 %,NW,10 mph,20 mph,29.91 in,0.0 in,Partly Cloudy

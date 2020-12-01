@@ -1,0 +1,12 @@
+Error Report
+------------
+
+Process Date: 01/28/2015 04:27:39
+
+PROCESSING ERRORS
+
+Alexandria-VA Dominion   Invoice #: 652173242720150120   
+    Previous Balance Amount of 390.34
+
+Alexandria-VA Dominion   Invoice #: 911508278720150120   
+    Previous Balance Amount of 292.89
